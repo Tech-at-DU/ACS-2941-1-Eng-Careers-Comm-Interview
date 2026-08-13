@@ -1,6 +1,8 @@
 # Problem Solving Strategy
 
-### [Slides](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing)
+### Slides
+
+*(Add link to slide deck)*
 
 ## Learning Outcomes
 
@@ -48,10 +50,10 @@ Write in your notebook, then share with 1 or 2 partners:
 
 ## Homework
 
-Complete Homework #3 on [Gradescope](https://gradescope.com):
-- Watch 2 Interviewing.io videos
+Complete Homework #3 and submit via the course tracker:
+- Watch 2 [interviewing.io](https://interviewing.io) mock interview recordings
 - Answer the questions on what each interviewee did well and what they could have improved.
 
 ## Wrap-Up
 
-Fill out the [Vibe Check Form](https://forms.gle/3tCpS457XudkypmSA) with any thoughts & feelings from class today that you'd like your instructors to know.
+Fill out the class feedback form with any thoughts & feelings from class today that you'd like your instructors to know.

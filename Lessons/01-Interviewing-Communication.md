@@ -1,6 +1,8 @@
 # Interviewing Communication
 
-### [**Slides**](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit?usp=sharing)
+### Slides
+
+*(Add link to slide deck)*
 
 ## Learning Outcomes
 
@@ -17,7 +19,7 @@ By the end of this session, you will be able to describe and practice each of th
 
 ## Warm-Up
 
-With a partner, recall *one* technical interview you have done in the past (at Make School or elsewhere).
+With a partner, recall *one* technical interview you have done in the past.
 
 - What was hard about it?
 - How could you have done better?
@@ -76,8 +78,8 @@ Go through these steps with a partner, then switch:
 
 ## Homework
 
-Complete the Homework #1 video & worksheet on [Gradescope](https://gradescope.com).
+Complete the Homework #1 video & worksheet, and submit both via the course tracker.
 
 ## Wrap-Up
 
-Fill out the [Vibe Check Form](https://forms.gle/3tCpS457XudkypmSA) with any thoughts & feelings from class today that you'd like your instructors to know.
+Fill out the class feedback form with any thoughts & feelings from class today that you'd like your instructors to know.

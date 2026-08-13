@@ -1,6 +1,8 @@
 # Test Cases
 
-### [Slides](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/)
+### Slides
+
+*(Add link to slide deck)*
 
 ## Warm-Up #1: Problem Solving Strategy
 
@@ -63,10 +65,10 @@ Practice Problems:
 
 ## Homework
 
-- Find 2 new problems on Exercism.io and solve them following the problem solving strategy covered in last class to guide your thinking.
+- Find 2 new problems on [Exercism](https://exercism.org) and solve them following the problem solving strategy covered in last class to guide your thinking.
 - Run your solution code on at least 2 inputs for each type of test case covered in this class.
-- Commit your solution code and test cases to a GitHub repo and submit via Gradescope.
+- Commit your solution code and test cases to a GitHub repo and submit the link via the course tracker.
 
 ## Wrap-Up
 
-Fill out the [Vibe Check Form](https://forms.gle/3tCpS457XudkypmSA) with any thoughts & feelings from class today that you'd like your instructors to know.
+Fill out the class feedback form with any thoughts & feelings from class today that you'd like your instructors to know.

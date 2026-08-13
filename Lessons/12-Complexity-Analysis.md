@@ -1,16 +1,16 @@
 # Complexity Analysis
 
-### [Slides](https://docs.google.com/presentation/d/1TyfA1m2Sd7XEMrWoHYK5PxvjoJ1KXKaN3ausi69MtHY/)
+### Slides
+
+*(Add link to slide deck)*
 
 ## Warm-Up
 
-Define what each of the 5 plots represents.
-
-Click [here](https://www.desmos.com/calculator/fsenvsr754) for answers.
+Define what each of the following Big O complexity classes represents, and sketch a rough growth curve for each: O(1), O(log n), O(n), O(n log n), O(n²).
 
 ## Activity 1: Worksheet
 
-Make a copy of [this worksheet](https://docs.google.com/document/d/1I6tFnjc_dLk70--JMG-eyyRPm2nXNtwWSCAEUBKbic0/edit). Analyze each of the problems on the worksheet and provide the Big O for runtime and space complexity.
+Make a copy of the complexity analysis worksheet *(add link)*. Analyze each of the problems on the worksheet and provide the Big O for runtime and space complexity.
 
 ## Activity 2: Rapid-Fire Breakouts
 
@@ -28,10 +28,10 @@ Practice Problems:
 
 ## Homework
 
-- Find 2 new problems on [Exercism](https://exercism.io) or [LeetCode](https://leetcode.com) and solve them following the problem solving strategy covered in a prior class to guide your thinking.
+- Find 2 new problems on [Exercism](https://exercism.org) or [LeetCode](https://leetcode.com) and solve them following the problem solving strategy covered in a prior class to guide your thinking.
 - Analyze the time and space complexity of your solution code and annotate this in comments.
-- Commit your solution code and annotations to GitHub repo and submit using Gradescope.
+- Commit your solution code and annotations to a GitHub repo and submit the link via the course tracker.
 
 ## Wrap-Up
 
-Fill out the [Vibe Check Form](https://forms.gle/3tCpS457XudkypmSA) with any thoughts & feelings from class today that you'd like your instructors to know.
+Fill out the class feedback form with any thoughts & feelings from class today that you'd like your instructors to know.

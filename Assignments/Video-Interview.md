@@ -16,7 +16,7 @@ Completing mock interviews in class with a partner is one thing, but the only wa
 
 First, you'll need to choose a technical interview problem to solve. This may be one that you already know the answer to! In fact, that may be preferable, as you will be better able to focus on practicing the steps.
 
-If you are looking for a problem to use, [here](https://towardsdatascience.com/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) is a good list of beginner-level problems. Alternatively, you may use a problem from HackerRank or Leetcode which you have previously solved.
+If you are looking for a problem to use, pick a beginner/intermediate-level problem from LeetCode or HackerRank — ideally one you have previously solved, so you can focus on practicing the steps rather than solving it cold.
 
 **In your video submission, you must complete the following:**
 
@@ -27,14 +27,14 @@ If you are looking for a problem to use, [here](https://towardsdatascience.com/1
 1. Solve the problem & discuss the solution (E.g. draw a picture, make an analogy, brainstorm a data structure/algorithm to use, compare/contrast with similar/different problems, list out relevant tools you have and pick the right one, break down the problem into smaller problems and solve those first)
 1. Pick a solution (consider tradeoffs)
 1. Psuedocode your solution
-1. Code your solution
+1. Code your solution — **no AI coding assistant during recording.** This assignment is graded on your own live problem-solving and communication, the same as an unassisted interview round.
 1. Walk through test inputs with your coded solution
 1. Review your solution: state what you see as good and bad about your solution. How could you have made it better or faster?
 
 ## Submission
 
-Please upload your video to Google Drive and submit the link on [Gradescope](https://gradescope.com).
+Please upload your video and submit the link via the course tracker.
 
 ## Resources
 
-1. [How to Create a Screencast Video on Mac](https://www.cnet.com/how-to/record-your-mac-screen-the-easy-way-heres-how-to-do-it/)
+1. Screen recording: macOS (Cmd+Shift+5 or QuickTime Player), Windows (Xbox Game Bar, Win+G), or [OBS Studio](https://obsproject.com) (cross-platform)

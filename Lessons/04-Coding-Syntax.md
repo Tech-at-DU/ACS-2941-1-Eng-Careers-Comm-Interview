@@ -1,6 +1,8 @@
 # Coding Syntax & Conventions
 
-### [Slides](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit?usp=sharing)
+### Slides
+
+*(Add link to slide deck)*
 
 ## Learning Outcomes
 
@@ -29,14 +31,15 @@ Compare your results with 2-3 others and write down anything they caught but you
 
 ## Homework
 
-- Copy your Google Doc solutions to 2 breakout problems solved during today’s class.
+- Copy your solutions to the 2 breakout problems solved during today's class.
 - Paste the code exactly as it is written in a code editor and commit it without changes.
 - See if the code runs and the results are correct.
-- Make any changes needs to fix the code’s syntax. Use a code linter to detect violated conventions.
+- Make any changes needed to fix the code's syntax. Use a code linter to detect violated conventions.
 - Commit the new code with your improvements.
-- Submit your code via Gradescope.
+- Submit your code via the course tracker.
 
+**Do not use an AI coding assistant for this homework.** The point is to build your own eye for syntax errors and convention violations before you lean on a tool to catch them for you. [Lesson 05](05-AI-Assisted-Coding-and-Interviewing.md) covers when AI tools are and aren't appropriate to use.
 
 ## Wrap-Up
 
-Fill out the [Vibe Check Form](https://forms.gle/3tCpS457XudkypmSA) with any thoughts & feelings from class today that you'd like your instructors to know.
+Fill out the class feedback form with any thoughts & feelings from class today that you'd like your instructors to know.

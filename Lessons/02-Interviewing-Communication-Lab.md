@@ -1,6 +1,8 @@
 # Interviewing Communication Lab
 
-### [Slides](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing)
+### Slides
+
+*(Add link to slide deck)*
 
 ## Learning Outcomes
 
@@ -47,8 +49,8 @@ Complete [this worksheet](https://docs.google.com/document/d/16NFUlOR9v-j23Z6IM8
 
 1. **Find 2 new problems on LeetCode** and follow the communication steps covered in last class to guide your thinking and problem solving.
 1. **Write down and commit** your **communication steps** (in code comments) and **solution code** to a GitHub repository.
-1. **Submit** your GitHub repository to Gradescope.
+1. **Submit** your GitHub repository link via the course tracker.
 
 ## Wrap-Up
 
-Fill out the [Vibe Check Form](https://forms.gle/3tCpS457XudkypmSA) with any thoughts & feelings from class today that you'd like your instructors to know.
+Fill out the class feedback form with any thoughts & feelings from class today that you'd like your instructors to know.
