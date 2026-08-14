@@ -1,12 +1,31 @@
 # Interviewing Communication Lab
 
-### Slides
+## Minute-by-Minute
 
-*(Add link to slide deck)*
+| Elapsed | Time | Activity |
+| ------- | ---- | -------- |
+| 0:00    | 0:10 | Overview: Why Reps Matter |
+| 0:10    | 0:10 | Warm-Up |
+| 0:20    | 0:25 | Worksheet |
+| 0:45    | 0:10 | BREAK |
+| 0:55    | 1:30 | Rapid-fire Breakouts |
+| 2:25    | 0:15 | Debrief / Share-Outs |
+| 2:40    | 0:05 | Wrap-Up |
+| **Total** | **2:45** | |
+
+## Overview: Why Reps Matter (10 min)
+
+Last class introduced the communication steps. Knowing them once isn't the same as being able to use them under pressure — today is about repetition: the same steps, applied fast, across several different problems and partners, until they start to feel automatic instead of like a checklist you're consciously running through.
 
 ## Learning Outcomes
 
-## Warm-Up (3 minutes)
+By the end of this session, you will be able to...
+
+1. Apply the communication steps (restate, clarify, assumptions, think out loud) under time pressure without skipping them
+1. Give structured, specific feedback on another candidate's communication technique using a rubric
+1. Self-assess your own interview performance against what an interviewer observed
+
+## Warm-Up (10 minutes)
 
 Sequence the communication steps of technical interviewing below, then compare with 1-2 partners.
 
@@ -19,23 +38,56 @@ Sequence the communication steps of technical interviewing below, then compare w
 1. Restate the problem
 1. Ask clarifying questions
 
-## Worksheet (20 minutes)
+## Worksheet (25 minutes)
 
-Complete [this worksheet](https://docs.google.com/document/d/16NFUlOR9v-j23Z6IM80z8Ev5iogDCWf7OgfIkmP09NU/edit#) on your own, then review your responses in a small group.
+Work through this on your own for the full 25 minutes before comparing with your group. Writing every step out, even when the answer feels obvious, is the point — it's the habit you're building. (Master copy: [Communication-Steps-Worksheet.md](../Assignments/Communication-Steps-Worksheet.md).)
 
-*Alternative Interview Question: Given an array of all duplicates except 1 unique value, find the unique value.*
+**Problem:** Given an array of all duplicates except 1 unique value, find the unique value.
+
+**1. Restate the Problem** — Write the problem in your own words.
+
+**2. Clarifying Questions** — List 3+ questions you'd ask an interviewer about this problem (e.g. input size, data types, whether the array is sorted).
+
+**3. Assumptions** — List the assumptions you're making since you can't ask a real interviewer right now.
+
+**4. Brainstorm** — List at least 2 different approaches, even if one is obviously worse (e.g. brute force vs. a better approach).
+
+**5. Pick an Approach & Explain Rationale** — Which approach would you present first, and why?
+
+**6. Tradeoffs** — What's the time/space tradeoff of your chosen approach vs. the alternative(s) you listed?
+
+**7. Pseudocode** — Write pseudocode for your chosen approach.
+
+**8. Improvements** — If you had more time, what would you improve, or what edge case would you double check?
+
+**Small Group Review (after 20 min solo)** — Compare answers with 1-2 others. Where did your restatement or assumptions differ? Note one thing from someone else's worksheet you'd like to borrow.
 
 ## Break (10 minutes)
 
-## Rapid-fire Breakouts (40 minutes)
+## Rapid-fire Breakouts (1 hour 30 minutes)
 
 **Instructions:**
 
-1. Find a partner to do mock interviews with. One will play interviewer, one interviewee.
+1. Your instructor will assign your partner for problems 1-2. One will play interviewer, one interviewee.
 1. Work through the problem as if you’re in an actual interview. Your interviewer will have a checklist to make sure you follow the best-practice communication steps.
-1. Give feedback on what they did/didn’t do.
+1. After each round, the interviewer fills out the Quick Feedback Card below and gives one verbal note before swapping.
 1. Swap roles and work through problem 2.
-1. Find a different partner and repeat the above steps (2-4) for problems 3 and 4.
+1. Your instructor will assign a new partner for problems 3 and 4; repeat the above steps for each.
+1. **Problem 4 only:** instead of the Quick Feedback Card, the interviewer fills out the full [Peer Interview Rubric](../Assignments/Sample_Rubric.md) — this round counts toward your 6-of-8 in-class peer interview rubrics.
+
+<details>
+<summary><strong>Quick Feedback Card</strong> — click to reveal (use for rounds 1-3)</summary>
+
+Check off what you saw, then give one verbal note before swapping.
+
+- [ ] Restated the problem
+- [ ] Asked a clarifying question
+- [ ] Stated an assumption
+- [ ] Thought out loud while solving
+
+**One thing to try next time:** ______________
+
+</details>
 
 **Practice Problems:**
 
@@ -44,11 +96,21 @@ Complete [this worksheet](https://docs.google.com/document/d/16NFUlOR9v-j23Z6IM8
 1. Given a sorted array, find the index of the first and last occurrence of a given element. If the given element is not found in the array, report that.
 1. Given an array a of numbers and a target value t, find two numbers that sum to `t` (that is, `a[i] + a[j] = t`).
 
+## Debrief / Share-Outs (15 minutes)
+
+As a full class, 2-3 volunteers share: what was different about giving feedback vs. receiving it? Did your self-assessment (if you were interviewee) match what your interviewer wrote down on the rubric?
 
 ## Homework
 
-1. **Find 2 new problems on LeetCode** and follow the communication steps covered in last class to guide your thinking and problem solving.
-1. **Write down and commit** your **communication steps** (in code comments) and **solution code** to a GitHub repository.
+The real deliverable here is the self-assessment, not a finished solution — it's fine to run out of time partway through.
+
+1. **Find 2 new problems on LeetCode.**
+1. **Set a timer for 30 minutes per problem.** Work through the communication steps covered in last class (restate, clarify, assumptions, think out loud) as far as you get. Do as much as you can in the time — don't rush to finish at the expense of the steps.
+1. **When the timer ends, stop and self-assess**, whatever state you're in:
+   - Which steps did you fully complete? Which did you skip or rush?
+   - Where were you when time ran out (still restating? mid-code? done and reviewing?)
+   - One-line self-rating (1-5) for how thoroughly you hit the communication steps.
+1. **Commit** your communication step notes (in code comments), whatever code you got to (partial is fine), and your self-assessment to a GitHub repository.
 1. **Submit** your GitHub repository link via the course tracker.
 
 ## Wrap-Up
