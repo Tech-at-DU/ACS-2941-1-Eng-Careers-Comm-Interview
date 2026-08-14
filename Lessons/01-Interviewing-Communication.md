@@ -18,6 +18,8 @@
 
 In a technical interview, a correct answer delivered silently loses to a good answer delivered out loud. Interviewers are grading how you think, not just what you produce — restating, asking questions, and narrating your reasoning is the only way they can see that. Today builds the habit of doing all of that on purpose, before it has to happen under pressure.
 
+**A note on AI tools:** for Lessons 1 through 4, you won't use AI coding assistants for any homework or in-class work. That's by design, not an oversight — you're building the underlying communication, planning, and syntax judgment that makes AI tools useful rather than a crutch. [Lesson 5](05-AI-Assisted-Coding-and-Interviewing.md) covers exactly when and how to bring AI into your process, once you have that foundation to bring AI *into*.
+
 ## Learning Outcomes
 
 By the end of this session, you will be able to describe and practice each of the communication-focused steps of the technical interviewing process:
