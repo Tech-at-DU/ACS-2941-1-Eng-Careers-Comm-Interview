@@ -32,3 +32,12 @@ Use this rubric when you're the "interviewer" in a mock interview breakout. Chec
 **One thing to improve next time:**
 
 **Would you advance this candidate to the next round?** Yes / No / Borderline — with one sentence why.
+
+## Self-Assessment (interviewee fills out, after receiving the rubric above)
+
+Rate yourself 1-5 (1 = didn't do it, 5 = did it well). Compare against what your interviewer checked off — big gaps between your rating and theirs are worth noticing.
+
+- Communication (restating, clarifying, thinking out loud): ___ / 5
+- Problem-solving process (pattern, pseudocode, testing): ___ / 5
+
+**One thing you'd change next time:**
