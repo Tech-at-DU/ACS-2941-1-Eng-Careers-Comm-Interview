@@ -1,8 +1,22 @@
 # Problem Solving Strategy
 
-### Slides
+## Minute-by-Minute
 
-*(Add link to slide deck)*
+| Elapsed | Time | Activity |
+| ------- | ---- | -------- |
+| 0:00    | 0:10 | Overview: A Different Kind of Practice |
+| 0:10    | 0:15 | Warm-Up: Simplify First |
+| 0:25    | 0:30 | Activity 1: Strategy Walkthrough |
+| 0:55    | 0:10 | BREAK |
+| 1:05    | 0:25 | Activity 2: Silent Pseudocode Handoff |
+| 1:30    | 0:55 | Activity 3: Interview Breakout |
+| 2:25    | 0:15 | Debrief |
+| 2:40    | 0:05 | Wrap-Up |
+| **Total** | **2:45** | |
+
+## Overview: A Different Kind of Practice (10 min)
+
+Lessons 1 and 2 drilled *how you talk about* a solution — restate, clarify, assumptions, think out loud. Today shifts to *how you build one*: simplify the problem, find a pattern, plan before you code, check your work after. Same interview, different half of the skill. The activities today are shaped differently on purpose — less live role-play, more planning-on-paper — because that's the part this strategy actually lives in.
 
 ## Learning Outcomes
 
@@ -16,43 +30,77 @@ By the end of this session, you will be able to describe and practice each of th
 1. Follow your plan - write real code
 1. Check your work - test your code
 
-## Warm-Up (15 minutes)
+## Warm-Up: Simplify First (15 minutes)
 
 _**Interview Question:** Find the 5th largest value in an array of n numbers._
 
-Write in your notebook, then share with 1 or 2 partners:
+That's hard to picture at full size. Simplify it first:
 
-1. Restate the problem
-1. Ask clarifying questions
-1. State your assumptions
-1. Think out loud
-    1. Brainstorm solutions
-    1. Explain your rationale
-    1. Discuss tradeoffs
-    1. Suggest improvements
+1. Alone: solve the smaller version by hand — find the **2nd** largest value in a 5-element array. Write out exactly what you did, step by step.
+1. Generalize: how does your hand-solved approach extend from "2nd largest of 5" to "5th largest of n"? What stays the same, what has to change?
+1. Share with 1-2 partners: compare how you simplified and generalized. Did you both shrink the problem the same way?
 
-## Activity: Interview Breakouts (40 minutes)
+## Activity 1: Strategy Walkthrough (30 minutes)
 
-**Instructions**:
+**Problem:** Given an array `a` of numbers and a target value `t`, find two numbers that sum to `t` (that is, `a[i] + a[j] = t`).
 
-1. Find a partner to do mock interviews with. One will play interviewer, one interviewee.
-1. Work through the problem as if you’re in an actual interview. Your interviewer will have a checklist to make sure you follow the best-practice problem solving steps.
-1. Give feedback on what they did/didn’t do.
-1. Swap roles and work through problem 2.
-1. Find a different partner and repeat the above steps (2-4) for problems 3 and 4.
+Work through these steps **in order, on paper, solo** — no code yet:
 
-**Practice Problems**:
+1. **Simplify:** solve it by hand for a small sorted array (5-6 numbers).
+1. **Find the pattern:** what did you notice while solving the small case that would work for any size array?
+1. **Pseudocode:** write out your approach as pseudocode, precisely enough that someone else could follow it without asking you questions.
 
-1. Given an array `a` of numbers and a target value `t`, find two numbers that sum to `t` (that is, `a[i]` + `a[j]` = `t`).
+Pair up and compare pseudocode. Where is your partner's plan clear? Where would you have gotten stuck following it blind? You'll find out for real next.
+
+## Break (10 minutes)
+
+## Activity 2: Silent Pseudocode Handoff (25 minutes)
+
+Your instructor will assign half the room Problem 3 and half Problem 4 below.
+
+1. Alone: simplify, find the pattern, and write pseudocode for your assigned problem — same process as Activity 1, about 10 minutes.
+1. Swap pseudocode (not partners you already worked with) with someone who solved a **different** problem than you.
+1. Silently — no talking — implement code from your partner's pseudocode alone.
+1. Once both of you have working (or stuck) code, talk: did it work? Where was the pseudocode ambiguous or missing a step? Would you have caught that mistake if you'd been narrating it out loud instead of writing it down?
+
+## Activity 3: Interview Breakout (55 minutes)
+
+**Instructions:**
+
+1. Your instructor will assign your partner. One will play interviewer, one interviewee.
+1. Work through **Problem 2** as if in an actual interview, hitting the full strategy: test inputs, simplify/pattern, pseudocode before code, check your work at the end.
+1. Give feedback on what they did/didn't do.
+1. Swap roles.
+1. Your instructor will assign a new partner. Work through whichever of **Problem 3 or 4** you didn't already do in Activity 2. **This round:** the interviewer fills out the [Peer Interview Rubric](../Assignments/Sample_Rubric.md) — focus especially on the Problem Solving section — and this counts toward your 6-of-8 in-class peer interview rubrics.
+
+**Practice Problems:**
+
+1. Given an array `a` of numbers and a target value `t`, find two numbers that sum to `t` (that is, `a[i]` + `a[j]` = `t`). *(used in Activity 1)*
 1. Given 2 arrays of `n` numbers each, find a pair of numbers (one from each array) whose sum is closest to a given target value `t`.
 1. Reverse a linked list by reusing the nodes (do not create new nodes).
-1. Find the k largest numbers in a an array of n numbers. Return them in an array sorted in decreasing order.
+1. Find the k largest numbers in an array of n numbers. Return them in an array sorted in decreasing order.
 
-## Homework
+## Debrief (15 minutes)
 
-Complete Homework #3 and submit via the course tracker:
-- Watch 2 [interviewing.io](https://interviewing.io) mock interview recordings
-- Answer the questions on what each interviewee did well and what they could have improved.
+As a full class: which was harder — writing pseudocode clear enough for someone else to code from blind, or coding from someone else's pseudocode? What does that tell you about how precise your planning needs to be before you start typing in a real interview?
+
+## Homework: Strategy Audit
+
+Pick one solution you committed for Lesson 1 or 2's homework. Revisit it the way a real engineer revisits old code — as a pull request, not a rewrite you just paste over the top of.
+
+1. **Branch:** create a new branch off your existing repo (e.g. `strategy-audit`).
+1. **Redo it properly**, committing as you go so the steps show up in your history — don't squash into one commit:
+   - a commit for your simplified case / pattern-finding notes (a comment or short `.md` file is fine)
+   - a commit for your pseudocode
+   - a commit (or a few) for the real implementation
+   - a commit for tests
+1. **Open a pull request** from your branch back to main. Title it like a real one (e.g. "Rewrite: two-sum with proper planning"). In the PR description, write your self-assessment:
+   - **Before:** what did past-you actually do? (Probably: started typing immediately.)
+   - **After:** where did simplifying, finding the pattern, or pseudocode actually change the outcome — faster, cleaner, fewer bugs?
+   - **What I'd tell past-me:** one sentence.
+1. **Submit the PR link** via the course tracker. Leave the PR open, don't merge it — it's the artifact.
+
+This doubles as portfolio material: a real PR with a real diff and a real write-up is exactly the kind of GitHub activity the [Resume, Portfolio & LinkedIn Checklist](../Assignments/Resume-Portfolio-LinkedIn-Checklist.md) tells you to have.
 
 ## Wrap-Up
 
