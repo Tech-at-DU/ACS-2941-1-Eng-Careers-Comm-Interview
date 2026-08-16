@@ -9,9 +9,18 @@
 | 1:05    | 0:10 | BREAK |
 | 1:15    | 0:40 | Part 2: Python Sample |
 | 1:55    | 0:25 | Restate & Verify |
-| 2:20    | 0:15 | Debrief |
-| 2:35    | 0:10 | Wrap-Up & Homework |
+| 2:20    | 0:10 | Debrief |
+| 2:30    | 0:10 | Exit Ticket |
+| 2:40    | 0:05 | Wrap-Up |
 | **Total** | **2:45** | |
+
+## Instructor Setup
+
+*For whoever is teaching — students can skip to Overview.*
+
+- Pre-assign partners for the exchange step in Part 1 and Part 2 (different partner for each part is fine and encouraged — more perspectives).
+- The Worked Example in the Overview is deliberately a third snippet, not Part 1 or Part 2 — don't substitute it for either graded sample.
+- Collect Exit Tickets via the course tracker.
 
 ## Overview: The Third Skill (25 min)
 
@@ -134,7 +143,7 @@ Same process as Part 1 — solo, sort into the three buckets, partner exchange w
 
 ## Restate & Verify (25 min)
 
-For **both** of your fixed functions:
+**Individually — not with your partner.** For **both** of your fixed functions:
 
 1. Restate in one sentence what it does now that it's correct (Lesson 1 skill).
 1. Write 2-3 test cases (a normal case, an edge case) that would catch the bugs you just fixed if they came back. You don't need to write a full test framework — a few `assert` statements or manual calls with expected output are enough.
@@ -144,6 +153,14 @@ This is the same question Part 1's JS sample raises structurally: a function you
 ## Debrief (15 min)
 
 As a class: where did people disagree about which bucket something belonged in? The missing-return-value issue in Part 1 is a good example to raise — it's not a syntax error, and arguably not a convention violation either, which is exactly why "Logic/Interview-Readiness" exists as its own bucket.
+
+## Exit Ticket (10 minutes)
+
+**Students:** individually, no partner — submit via the course tracker before you go.
+
+> Pick one bug you found today. Which bucket does it belong in — Syntax, Convention, or Logic/Interview-Readiness — and what's the specific test that puts it in that bucket and not one of the others?
+
+**Instructor:** a correct bucket with a vague or missing "how do you know" is the tell that someone pattern-matched off their partner's answer instead of reasoning it out themselves — worth a follow-up.
 
 ## Homework
 

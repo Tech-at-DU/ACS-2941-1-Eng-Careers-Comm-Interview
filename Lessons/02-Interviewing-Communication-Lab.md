@@ -9,9 +9,18 @@
 | 0:20    | 0:25 | Worksheet |
 | 0:45    | 0:10 | BREAK |
 | 0:55    | 1:30 | Rapid-fire Breakouts |
-| 2:25    | 0:15 | Debrief / Share-Outs |
+| 2:25    | 0:10 | Debrief / Share-Outs |
+| 2:35    | 0:05 | Exit Ticket |
 | 2:40    | 0:05 | Wrap-Up |
 | **Total** | **2:45** | |
+
+## Instructor Setup
+
+*For whoever is teaching — students can skip to Overview.*
+
+- Have the Quick Feedback Card (embedded in Rapid-fire Breakouts) and the full Peer Interview Rubric ([Sample_Rubric.md](../Assignments/Sample_Rubric.md)) ready — both are built into this doc, nothing to print unless you prefer paper copies.
+- Plan the partner assignments for the 2 rounds (problems 1-2, then problems 3-4) before class — see Rapid-fire Breakouts below. Pre-assigning avoids burning class time on students finding partners themselves.
+- Collect Exit Tickets via the course tracker; this is your fastest signal for who's coasting on a stronger partner during the breakouts.
 
 ## Overview: Why Reps Matter (10 min)
 
@@ -27,7 +36,7 @@ By the end of this session, you will be able to...
 
 ## Warm-Up (10 minutes)
 
-Sequence the communication steps of technical interviewing below, then compare with 1-2 partners.
+**Alone first:** sequence the communication steps of technical interviewing below on your own, then compare with 1-2 partners.
 
 1. Brainstorm solutions
 1. Think out loud
@@ -78,7 +87,7 @@ Work through this on your own for the full 25 minutes before comparing with your
 <details>
 <summary><strong>Quick Feedback Card</strong> — click to reveal (use for rounds 1-3)</summary>
 
-Check off what you saw, then give one verbal note before swapping.
+**Interviewer:** check off what you saw, then give one verbal note before swapping.
 
 - [ ] Restated the problem
 - [ ] Asked a clarifying question
@@ -86,6 +95,8 @@ Check off what you saw, then give one verbal note before swapping.
 - [ ] Thought out loud while solving
 
 **One thing to try next time:** ______________
+
+**Interviewee:** before you swap, jot your own one-liner (don't just listen to theirs) — **What would I do differently next round?** ______________
 
 </details>
 
@@ -99,6 +110,14 @@ Check off what you saw, then give one verbal note before swapping.
 ## Debrief / Share-Outs (15 minutes)
 
 As a full class, 2-3 volunteers share: what was different about giving feedback vs. receiving it? Did your self-assessment (if you were interviewee) match what your interviewer wrote down on the rubric?
+
+## Exit Ticket (5 minutes)
+
+**Students:** individually, no partner — submit via the course tracker before you go.
+
+> Which communication step do you personally skip most often once you're under time pressure, and why do you think that happens?
+
+**Instructor:** the debrief above only hears from volunteers; this is your check on everyone else. Skim before Lesson 3 — a pattern of the same skipped step across several students is worth addressing at the start of next class.
 
 ## Homework
 

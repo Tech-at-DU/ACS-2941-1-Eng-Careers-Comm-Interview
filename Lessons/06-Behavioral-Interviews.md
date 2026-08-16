@@ -1,9 +1,5 @@
 # Behavioral Interviewing
 
-### Slides
-
-*(Add link to slide deck)*
-
 ## Learning Outcomes
 
 By the end of today, you should be able to...

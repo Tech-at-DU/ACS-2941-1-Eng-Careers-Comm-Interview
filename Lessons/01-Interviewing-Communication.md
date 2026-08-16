@@ -10,9 +10,18 @@
 | 1:15    | 0:10 | BREAK |
 | 1:25    | 0:20 | Communication Role Play |
 | 1:45    | 0:35 | Practice Problem |
-| 2:20    | 0:15 | Debrief / Share-Outs |
-| 2:35    | 0:10 | Homework & Wrap-Up |
+| 2:20    | 0:10 | Debrief / Share-Outs |
+| 2:30    | 0:10 | Exit Ticket |
+| 2:40    | 0:05 | Wrap-Up |
 | **Total** | **2:45** | |
+
+## Instructor Setup
+
+*This section is for whoever is teaching the class — students can skip to Overview.*
+
+- This is the first pairing of the course, so open "find a partner" pairing is fine here — you don't need a pre-assigned rotation yet.
+- Have the Peer Interview Rubric ready (embedded below in Communication Role Play, master copy at [Sample_Rubric.md](../Assignments/Sample_Rubric.md)) — nothing to print, it's built into this doc.
+- Plan to collect Exit Tickets via the course tracker after class. This is your fastest signal for who's already lost — follow up 1:1 with anyone whose ticket raises a flag before Lesson 2, not after.
 
 ## Overview: Why Communication Matters (10 min)
 
@@ -78,7 +87,7 @@ Interview Problem: *Write a function that takes two lists named a and b, and ret
 
 Breakout into pairs. One person is interviewer, the other is interviewee. Use the same practice question and interview each other — 8 minutes each direction, 2 minutes of feedback after each.
 
-**This counts toward your 6-of-8 in-class peer interview rubrics.** Whoever is interviewing fills out the rubric below for their partner and hands it to them at the end of their turn. Interviewees fill out the self-assessment at the bottom after receiving it. (Master copy: [Sample_Rubric.md](../Assignments/Sample_Rubric.md).)
+**This counts toward your 6-of-8 in-class peer interview rubrics.** **Students:** whoever is interviewing fills out the rubric below for their partner and hands it to them at the end of their turn; interviewees fill out the self-assessment at the bottom after receiving it. **Instructor:** no collection needed here — the rubric stays with the interviewee as their own record. (Master copy: [Sample_Rubric.md](../Assignments/Sample_Rubric.md).)
 
 <details>
 <summary><strong>Peer Interview Rubric</strong> — click to reveal</summary>
@@ -124,7 +133,7 @@ Rate yourself 1-5 (1 = didn't do it, 5 = did it well). Compare against what your
 
 Problem: *Given an array of n numbers that are all unique except for one duplicate, find the duplicate number.*
 
-Go through these steps with a partner, then switch:
+**Alone first, 5 minutes:** jot your own restatement, clarifying questions, and assumptions before you say anything to your partner. Then go through these steps together, and switch:
 
 1. Restate the problem
 1. Ask clarifying questions
@@ -138,6 +147,14 @@ Go through these steps with a partner, then switch:
 ## Debrief / Share-Outs (15 min)
 
 As a full class, 2-3 volunteer pairs briefly share one tricky moment from the Practice Problem — a question that stumped them, an assumption they got wrong, an approach their partner suggested that they hadn't considered.
+
+## Exit Ticket (10 min)
+
+**Students:** individually, no partner — answer this in a few sentences and submit via the course tracker before you leave. It's checked for honesty and completion, not for impressing anyone.
+
+> In your own words, why does "thinking out loud" matter to an interviewer even when your answer is correct? On a scale of 1-5, how confident are you doing all four communication steps (restate, clarify, assumptions, think out loud) without a partner prompting you?
+
+**Instructor:** this is the fastest read you'll get on who's actually absorbing the process vs. who's leaning on their partner. Skim before Lesson 2 and flag anyone whose self-rating is low or whose explanation is thin.
 
 ## Homework
 

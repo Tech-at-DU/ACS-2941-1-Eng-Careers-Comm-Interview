@@ -1,6 +1,30 @@
 # AI-Assisted Coding and Interviewing
 
-## Why This Matters
+## Minute-by-Minute
+
+| Elapsed | Time | Activity |
+| ------- | ---- | -------- |
+| 0:00    | 0:10 | Overview: Two Skills at Once |
+| 0:10    | 0:15 | Warm-Up |
+| 0:25    | 0:30 | Activity 1: Know the Format |
+| 0:55    | 0:10 | BREAK |
+| 1:05    | 0:50 | Activity 2: The Explain-It-Back Drill |
+| 1:55    | 0:20 | Activity 3: Disclosure Language |
+| 2:15    | 0:15 | Debrief |
+| 2:30    | 0:10 | Exit Ticket |
+| 2:40    | 0:05 | Wrap-Up |
+| **Total** | **2:45** | |
+
+## Instructor Setup
+
+*For whoever is teaching — students can skip to Overview.*
+
+- Confirm ahead of time that students have access to at least one AI coding tool (free tier is fine — see the access note in Warm-Up). If your institution provides a licensed tool, say so here instead of leaving it to the note.
+- Pre-assign partners for Activity 2 and the Warm-Up/Activity 3 pairings.
+- Activity 2 is the centerpiece of this lesson — protect its time. If the class is running long, trim Activity 1's discussion before you trim Activity 2.
+- Collect Exit Tickets via the course tracker.
+
+## Overview: Two Skills at Once (10 min)
 
 By the time you're interviewing, AI coding tools (Copilot, Claude Code, Cursor, and similar) will be a normal part of a working developer's toolkit — employers expect you to know how to use them. But hiring pipelines have adapted: many technical interviews now explicitly restrict or ban AI assistance during live rounds, take-homes often *require* you to disclose what you used, and interviewers increasingly ask pointed follow-up questions specifically designed to check whether you understand code an AI helped you write. Being fluent with AI tools and being able to code and reason without them are both things you'll be evaluated on — often in the same interview loop.
 
@@ -13,20 +37,22 @@ By the end of this session, you will be able to...
 1. Explain and defend code you produced with AI help, including lines you didn't type yourself
 1. Use AI tools productively during *practice* without shortcutting the learning you need for live, unassisted rounds
 
-## Warm-Up (10 minutes)
+## Warm-Up (15 min)
 
-With a partner, discuss:
+**Alone first, 3 minutes:** write short answers to these before talking to anyone.
 
 - What AI coding tools do you currently use, if any? For what kinds of tasks?
 - Have you ever used one during a timed practice problem or an actual interview? What happened?
 - Would you trust code you generated with AI help if you had to explain it line-by-line to someone right now, with no tool open?
 - Do you have a paid AI subscription (ChatGPT Plus, Claude Pro, Copilot, Cursor Pro), or are you on free tiers? Has that made a noticeable difference in what you can do?
 
+**Then, with a partner (12 min):** compare answers.
+
 **A note on access:** paid tools aren't required for this course or for interviews. Free tiers of Claude.ai and ChatGPT are genuinely capable for problems at this level, and GitHub's Student Developer Pack gives verified students free Copilot access — worth checking if you haven't. If cost is a barrier for today's activities, use a free tier or pair with a partner who has one. What an interviewer evaluates is whether you can use *a* tool competently and explain the result — not which tool, and not whether you've never touched one before today. If that's you, say so to your partner up front and work through the prompting together for Activity 2.
 
-## Activity 1: Know the Format (15 minutes)
+## Activity 1: Know the Format (30 min)
 
-Interview formats handle AI differently, and getting this wrong is an easy way to look either naive or dishonest. As a class, sort these formats into **AI banned**, **AI allowed with disclosure**, and **it depends — ask** :
+**Alone first, 5 minutes:** interview formats handle AI differently, and getting this wrong is an easy way to look either naive or dishonest. Privately sort these into **AI banned**, **AI allowed with disclosure**, and **it depends — ask**:
 
 1. A live coding round on a shared screen with an interviewer watching
 1. A timed assessment on a proctored platform (e.g. CodeSignal, HackerRank, Karat) with lockdown browser/webcam
@@ -35,7 +61,11 @@ Interview formats handle AI differently, and getting this wrong is an easy way t
 1. Debugging someone else's code during a pairing round
 1. A personal portfolio project you're asked to walk through
 
+**Then, as a class (25 min):** go through each one. Where did your private answers disagree with the group?
+
 **Discuss:** Proctored platforms increasingly detect AI use directly (tab switching, paste volume, phone/second-screen detection). Assuming you can get away with unauthorized AI use is a bad bet — and even where it's technically undetectable, getting caught later (e.g. failing to explain your own solution) costs you more than a slower, honest answer would have.
+
+## Break (10 min)
 
 ## Practice Problems
 
@@ -46,7 +76,7 @@ You'll use these across Activity 2 and tonight's homework — between the two, p
 1. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/): Find the longest common prefix string amongst an array of strings.
 1. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/): Find the contiguous subarray with the largest sum.
 
-## Activity 2: The Explain-It-Back Drill (35 minutes)
+## Activity 2: The Explain-It-Back Drill (50 min)
 
 This simulates the single most common way interviewers catch candidates who over-relied on AI: asking them to explain, modify, or extend code they didn't fully understand. **This is the failure mode that sinks more candidates than any actual bug does** — producing working code you can't defend. If you get through this drill and realize you couldn't explain your own solution when a partner read it back to you, that's not a fun surprise to save for a real interview. That's exactly why this drill exists.
 
@@ -65,15 +95,29 @@ This simulates the single most common way interviewers catch candidates who over
 
 **Debrief:** What was hard to explain? Where did you (or your partner) end up guessing? That gap is exactly what a live "why did you write it this way" follow-up question will expose.
 
-## Activity 3: Disclosure Language (15 minutes)
+## Activity 3: Disclosure Language (20 min)
 
-Practice saying these out loud with a partner, then adapt them into your own words:
+**Alone first, 5 minutes:** write your own version of one disclosure line for a take-home and one for a live round, before you look at the examples below.
 
 - *"I used [tool] to help scaffold this function, then reviewed and adjusted the logic myself — happy to walk through any part of it."*
 - *"For this take-home, I used AI to help me look up the syntax for X, but the approach and logic are mine."*
 - *"I didn't use any AI assistance for this round, per the instructions — let me know if you'd like me to think out loud more as I go."*
 
-Notice these are short, factual, and don't apologize or over-explain. Practice one for a take-home and one for a live round.
+Notice these are short, factual, and don't apologize or over-explain.
+
+**Then, with a partner (15 min):** practice saying your own versions out loud. Give each other feedback — does it sound rehearsed and defensive, or short and factual?
+
+## Debrief (15 min)
+
+As a full class: after Activity 2, did anyone change their mind about how much they'd trust AI-assisted code without reviewing it line by line? What's one thing you'll do differently next time you use an AI tool to solve a practice problem?
+
+## Exit Ticket (10 min)
+
+**Students:** individually, no partner — submit via the course tracker before you go.
+
+> Was there a line in your AI-assisted solution today you could *not* confidently explain? If yes, which one, and why not. If no, what specifically did you do to make sure you understood all of it?
+
+**Instructor:** this is the same question the homework reflection asks, on purpose — comparing today's in-class answer against tonight's homework answer is a good way to see whether the habit is sticking or was a one-time performance for the drill.
 
 ## Homework
 

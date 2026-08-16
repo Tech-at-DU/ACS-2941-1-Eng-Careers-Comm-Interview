@@ -10,9 +10,20 @@
 | 0:55    | 0:10 | BREAK |
 | 1:05    | 0:25 | Activity 2: Silent Pseudocode Handoff |
 | 1:30    | 0:55 | Activity 3: Interview Breakout |
-| 2:25    | 0:15 | Debrief |
+| 2:25    | 0:10 | Debrief |
+| 2:35    | 0:05 | Exit Ticket |
 | 2:40    | 0:05 | Wrap-Up |
 | **Total** | **2:45** | |
+
+## Instructor Setup
+
+*For whoever is teaching — students can skip to Overview.*
+
+- This lesson is planning-heavy and light on live role-play by design (see Overview) — resist the urge to add more talk-time; the Silent Pseudocode Handoff depends on students staying quiet during the implementation step.
+- Split the room roughly in half before Activity 2 (Silent Pseudocode Handoff) — half gets Problem 3, half gets Problem 4.
+- Pre-assign partners for Activity 3 (two rounds: Problem 2, then whichever of 3/4 they didn't already do).
+- Have the Peer Interview Rubric ([Sample_Rubric.md](../Assignments/Sample_Rubric.md)) ready for Activity 3's second round.
+- Collect Exit Tickets via the course tracker.
 
 ## Overview: A Different Kind of Practice (10 min)
 
@@ -69,7 +80,7 @@ Your instructor will assign half the room Problem 3 and half Problem 4 below.
 
 1. Your instructor will assign your partner. One will play interviewer, one interviewee.
 1. Work through **Problem 2** as if in an actual interview, hitting the full strategy: test inputs, simplify/pattern, pseudocode before code, check your work at the end.
-1. Give feedback on what they did/didn't do.
+1. **Interviewer:** note which strategy steps you saw and didn't, then give one specific piece of feedback. **Interviewee:** before swapping, individually jot one line — which step did you skip or rush, and why?
 1. Swap roles.
 1. Your instructor will assign a new partner. Work through whichever of **Problem 3 or 4** you didn't already do in Activity 2. **This round:** the interviewer fills out the [Peer Interview Rubric](../Assignments/Sample_Rubric.md) — focus especially on the Problem Solving section — and this counts toward your 6-of-8 in-class peer interview rubrics.
 
@@ -83,6 +94,14 @@ Your instructor will assign half the room Problem 3 and half Problem 4 below.
 ## Debrief (15 minutes)
 
 As a full class: which was harder — writing pseudocode clear enough for someone else to code from blind, or coding from someone else's pseudocode? What does that tell you about how precise your planning needs to be before you start typing in a real interview?
+
+## Exit Ticket (5 minutes)
+
+**Students:** individually, no partner — submit via the course tracker before you go.
+
+> In your own words, what's the difference between "finding a pattern" and "writing pseudocode"? Which one do you personally tend to skip or rush?
+
+**Instructor:** watch for students who describe the two steps identically — that usually means they're pattern-matching the vocabulary without actually doing the strategy differently step to step.
 
 ## Homework: Strategy Audit
 
