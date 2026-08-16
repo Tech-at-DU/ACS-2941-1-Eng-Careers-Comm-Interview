@@ -152,7 +152,7 @@ As a full class, 2-3 volunteer pairs briefly share one tricky moment from the Pr
 
 **Students:** individually, no partner — answer this in a few sentences and submit via the course tracker before you leave. It's checked for honesty and completion, not for impressing anyone.
 
-> In your own words, why does "thinking out loud" matter to an interviewer even when your answer is correct? On a scale of 1-5, how confident are you doing all four communication steps (restate, clarify, assumptions, think out loud) without a partner prompting you?
+> In your own words, why does a correct answer delivered silently still lose to a weaker answer delivered out loud? On a scale of 1-5, how confident are you doing all four communication steps (restate, clarify, assumptions, think out loud) without a partner prompting you?
 
 **Instructor:** this is the fastest read you'll get on who's actually absorbing the process vs. who's leaning on their partner. Skim before Lesson 2 and flag anyone whose self-rating is low or whose explanation is thin.
 
