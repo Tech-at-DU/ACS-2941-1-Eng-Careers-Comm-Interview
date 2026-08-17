@@ -37,16 +37,16 @@ By the end of this session, you will be able to...
 
 ## Warm-Up (10 minutes)
 
-**Alone first:** sequence the communication steps of technical interviewing below on your own, then compare with 1-2 partners.
+**Alone first:** these are listed in random order, not the right order. Number them 1-8 in the correct sequence on your own, then compare with 1-2 partners.
 
-1. Brainstorm solutions
-1. Think out loud
-1. Suggest improvements
-1. Explain your rationale
-1. State your assumptions
-1. Discuss tradeoffs
-1. Restate the problem
-1. Ask clarifying questions
+- Brainstorm solutions
+- Think out loud
+- Suggest improvements
+- Explain your rationale
+- State your assumptions
+- Discuss tradeoffs
+- Restate the problem
+- Ask clarifying questions
 
 ## Worksheet (25 minutes)
 
@@ -113,6 +113,34 @@ Work through this on your own for the full 25 minutes before comparing with your
 1. Given a string containing many words, find the most commonly occurring word in the text as well as its count.
 1. Given a sorted array, find the index of the first and last occurrence of a given element. If the given element is not found in the array, report that.
 1. Given an array a of numbers and a target value t, find two numbers that sum to `t` (that is, `a[i] + a[j] = t`).
+
+<details>
+<summary><strong>Interviewer answer key</strong> — don't peek if you're about to be interviewed</summary>
+
+**Problem 1 (same elements, any order):**
+- Elements are integers. Arrays may be different lengths — if lengths differ, they can't be equal.
+- "Same elements" means same multiset: `[1,1,2]` and `[1,2,2]` are **not** equal, since the counts differ.
+- Two empty arrays are considered equal.
+
+**Problem 2 (most common word):**
+- Words are separated by single spaces; ignore punctuation.
+- Case-insensitive — "The" and "the" are the same word.
+- If there's a tie, return any one of them and say which one you picked.
+- Assume the string is non-empty and contains at least one word.
+
+**Problem 3 (first/last occurrence in sorted array):**
+- Array is sorted ascending and may contain duplicates.
+- If not found, return -1 (or say "not found" — either is fine, just be consistent).
+- Array can be empty — always "not found" in that case.
+
+**Problem 4 (two-sum):**
+- Assume exactly one valid pair exists unless they ask about ties or multiple pairs — if they ask, say "let's assume exactly one for now."
+- Array is unsorted. The same element can't be used twice, even if `a[i] * 2 == t`.
+- Return either the values or the indices — your call, just stay consistent.
+
+If they ask something not covered here, make a reasonable call and stay consistent for the rest of the round.
+
+</details>
 
 ## Debrief / Share-Outs (15 minutes)
 

@@ -57,6 +57,21 @@ Interview Problem: *Write a function that takes two lists named a and b, and ret
 
 *Both partners work from this same prompt on purpose — it's what lets you check your restatement, questions, and assumptions against theirs.*
 
+<details>
+<summary><strong>Interviewer only</strong> — don't peek if you're about to be interviewed</summary>
+
+If asked, here's the answer:
+
+- Both lists are unsorted, and may be different lengths.
+- All values are the same type (assume integers unless they ask for something else).
+- Return only distinct common values — no duplicates in the output, even if a value repeats in one or both inputs.
+- Order of the output doesn't matter.
+- If there's no overlap, return an empty list.
+
+If they ask something not covered here, make a reasonable call and stay consistent for the rest of the round.
+
+</details>
+
 ### Part 1: Restate the Problem
 
 1. Write down your restatement of the problem
@@ -147,6 +162,19 @@ Rate yourself 1-5 (1 = didn't do it, 5 = did it well). Compare against what your
 - Think out loud: brainstorm solutions, explain your rationale, discuss tradeoffs, suggest improvements
 
 Problem: *Given an array of n numbers that are all unique except for one duplicate, find the duplicate number.*
+
+<details>
+<summary><strong>Interviewer only</strong> — don't peek if you're about to be interviewed</summary>
+
+If asked, here's the answer:
+
+- The array is unsorted, contains integers, and has at least 2 elements.
+- Exactly one value appears exactly twice — every other value appears exactly once. Guaranteed, no need to handle zero or multiple duplicates.
+- No need to preserve the original array — just return the duplicate value.
+
+If they ask something not covered here, make a reasonable call and stay consistent for the rest of the round.
+
+</details>
 
 **Alone first, 5 minutes:** jot your own restatement, clarifying questions, and assumptions before you say anything to your partner. Then go through these steps together, and switch:
 

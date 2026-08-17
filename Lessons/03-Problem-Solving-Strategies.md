@@ -99,6 +99,28 @@ From here on, this is the full list an interviewer is listening for — not just
 1. Reverse a linked list by reusing the nodes (do not create new nodes).
 1. Find the k largest numbers in an array of n numbers. Return them in an array sorted in decreasing order.
 
+<details>
+<summary><strong>Interviewer answer key</strong> — for Problems 2-4, don't peek if you're about to be interviewed</summary>
+
+**Problem 2 (closest sum across two arrays):**
+- Both arrays are unsorted, non-empty, and may be different lengths.
+- Numbers can be negative.
+- Assume exactly one closest pair unless they ask about ties — if they ask, say "return any one of them."
+
+**Problem 3 (reverse a linked list in place):**
+- Singly linked list unless they ask — if they ask, say "let's assume singly linked."
+- List can be empty or have one node — in both cases, the "reversed" list is unchanged.
+- No cycles in the input.
+
+**Problem 4 (k largest, sorted descending):**
+- Assume `k <= n` (valid input guaranteed).
+- Array may contain duplicates — they count individually (e.g. `[5,5,3]`, k=2 → `[5,5]`).
+- Array is unsorted; numbers can be negative.
+
+If they ask something not covered here, make a reasonable call and stay consistent for the rest of the round.
+
+</details>
+
 ## Debrief (15 minutes)
 
 As a full class: which was harder — writing pseudocode clear enough for someone else to code from blind, or coding from someone else's pseudocode? What does that tell you about how precise your planning needs to be before you start typing in a real interview?
