@@ -34,14 +34,14 @@ In a technical interview, a correct answer worked out in silence loses to a wron
 
 By the end of this session, you will be able to describe and practice each of the communication-focused steps of the technical interviewing process:
 
-- Restate the problem
-- Ask clarifying questions
-- State your assumptions
-- Think out loud
-  - Brainstorm solutions
-  - Explain your rationale
-  - Discuss tradeoffs
-  - Suggest improvements
+- **Restate the problem** — say it back in your own words before doing anything else, so you and the interviewer agree on what's being asked
+- **Ask clarifying questions** — ask about anything left ambiguous: input size, format, edge cases, constraints
+- **State your assumptions** — say out loud what you're assuming when you can't ask about every detail
+- **Think out loud** — narrate your thinking as you work, not just your final answer
+  - **Brainstorm solutions** — mention more than one possible approach out loud, even an obviously worse one, before picking
+  - **Explain your rationale** — say *why* you picked the approach you did
+  - **Discuss tradeoffs** — compare your approach against the alternatives (speed, memory, simplicity)
+  - **Suggest improvements** — once you have a working solution, say what you'd do better with more time
 
 ## Warm-Up (15 min)
 
