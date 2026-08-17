@@ -1,4 +1,4 @@
-# ACS 2941: Engineering Careers - Communication and Interviewing
+# ACS-2941-1: Engineering Careers - Communication and Interviewing
 
 ## Course Description
 
@@ -26,11 +26,26 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** [Add current term dates]
+**Course Dates:** August 24 – October 9, 2026 (Fall 2026)
 
-**Class Times:** [Add class meeting days/times] (13-14 class sessions)
+**Class Times:** Monday & Wednesday, 1:00 PM – 3:45 PM (14 class sessions)
 
-See the [Lessons](Lessons/) folder for the full session-by-session breakdown.
+| Session | Lesson | Focus |
+| ------- | ------ | ----- |
+| 1  | [Interviewing Communication](Lessons/01-Interviewing-Communication.md) | Communication steps: restate, clarify, assumptions, think out loud |
+| 2  | [Interviewing Communication Lab](Lessons/02-Interviewing-Communication-Lab.md) | Reps under time pressure across multiple problems and partners |
+| 3  | [Problem Solving Strategy](Lessons/03-Problem-Solving-Strategies.md) | Simplify the problem, find a pattern, plan before you code |
+| 4  | [Coding Syntax & Conventions](Lessons/04-Coding-Syntax.md) | Syntax errors, convention violations, interview-readiness |
+| 5  | [AI-Assisted Coding and Interviewing](Lessons/05-AI-Assisted-Coding-and-Interviewing.md) | When AI is allowed, disclosure, defending AI-assisted code |
+| 6  | [Behavioral Interviewing](Lessons/06-Behavioral-Interviews.md) | STAR method, common behavioral questions |
+| 7  | [Test Cases](Lessons/07-Test-Cases.md) | Good/normal, bad/unusual, and edge case inputs |
+| 8  | [Resume/Career Lab I](Lessons/08-Resume-Lab-I.md) | Resume and portfolio work |
+| 9  | [Whiteboard Coding](Lessons/09-Whiteboard-Coding.md) | Tracing code by hand with a variable table |
+| 10 | [Resume/Career Lab II](Lessons/10-Resume-Lab-II.md) | Resume and portfolio peer review |
+| 11 | [Industry Contacts](Lessons/11-Industry-Contacts.md) | Networking and informational interviews |
+| 12 | [Complexity Analysis](Lessons/12-Complexity-Analysis.md) | Big O runtime and space complexity |
+| 13 | [Interview Practice](Lessons/13-Interview-Practice.md) | Timed practice problems |
+| 14 | [Final Exam Review & Original Problems](Lessons/14-Original-Problems.md) | Final review, mock interviews with original problems |
 
 ## Class Assignments
 
