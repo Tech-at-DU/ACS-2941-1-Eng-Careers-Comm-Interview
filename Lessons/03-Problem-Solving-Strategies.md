@@ -22,8 +22,8 @@
 - This lesson is planning-heavy and light on live role-play by design (see Overview) — resist the urge to add more talk-time; the Silent Pseudocode Handoff depends on students staying quiet during the implementation step.
 - Split the room roughly in half before Activity 2 (Silent Pseudocode Handoff) — half gets Problem 3, half gets Problem 4.
 - Pre-assign partners for Activity 3 (two rounds: Problem 2, then whichever of 3/4 they didn't already do).
-- Have the Peer Interview Rubric ([Sample_Rubric.md](../Assignments/Sample_Rubric.md)) ready for Activity 3's second round.
-- Collect Exit Tickets via the course tracker.
+- Have the Peer Interview Rubric ([Sample_Rubric.md](../Assignments/Sample_Rubric.md)) ready for Activity 3's second round — submits via the [Peer Interview Rubric form](https://forms.gle/m8j2nLWB3HbgnGGx9) (interviewer) and [Self-Assessment form](https://forms.gle/6cWUACVPmBtaY4jV8) (interviewee).
+- Exit Tickets submit to the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7).
 
 ## Overview: A Different Kind of Practice (10 min)
 
@@ -76,13 +76,21 @@ Your instructor will assign half the room Problem 3 and half Problem 4 below.
 
 ## Activity 3: Interview Breakout (55 minutes)
 
+**Before you start — the full checklist, communication and strategy together:**
+
+*Communication:* restate the problem, ask clarifying questions, state your assumptions, think out loud (brainstorm solutions, explain your rationale, discuss tradeoffs, suggest improvements)
+
+*Strategy:* generate test inputs, simplify the problem if needed, find a pattern, pseudocode before code, check your work after
+
+From here on, this is the full list an interviewer is listening for — not just the communication half from Lessons 1-2.
+
 **Instructions:**
 
 1. Your instructor will assign your partner. One will play interviewer, one interviewee.
 1. Work through **Problem 2** as if in an actual interview, hitting the full strategy: test inputs, simplify/pattern, pseudocode before code, check your work at the end.
 1. **Interviewer:** note which strategy steps you saw and didn't, then give one specific piece of feedback. **Interviewee:** before swapping, individually jot one line — which step did you skip or rush, and why?
 1. Swap roles.
-1. Your instructor will assign a new partner. Work through whichever of **Problem 3 or 4** you didn't already do in Activity 2. **This round:** the interviewer fills out the [Peer Interview Rubric](../Assignments/Sample_Rubric.md) — focus especially on the Problem Solving section — and this counts toward your 6-of-8 in-class peer interview rubrics.
+1. Your instructor will assign a new partner. Work through whichever of **Problem 3 or 4** you didn't already do in Activity 2. **This round:** the interviewer fills out the [Peer Interview Rubric](../Assignments/Sample_Rubric.md) — focus especially on the Problem Solving section, which is the strategy half of the checklist above — and this counts toward your 6-of-8 in-class peer interview rubrics. Interviewer submits via the [Peer Interview Rubric form](https://forms.gle/m8j2nLWB3HbgnGGx9); interviewee submits via the [Self-Assessment form](https://forms.gle/6cWUACVPmBtaY4jV8).
 
 **Practice Problems:**
 
@@ -97,7 +105,7 @@ As a full class: which was harder — writing pseudocode clear enough for someon
 
 ## Exit Ticket (5 minutes)
 
-**Students:** individually, no partner — submit via the course tracker before you go.
+**Students:** individually, no partner — submit via the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7) before you go.
 
 > In your own words, what's the difference between "finding a pattern" and "writing pseudocode"? Which one do you personally tend to skip or rush?
 
@@ -124,3 +132,5 @@ This doubles as portfolio material: a real PR with a real diff and a real write-
 ## Wrap-Up
 
 Fill out the class feedback form with any thoughts & feelings from class today that you'd like your instructors to know.
+
+

@@ -34,7 +34,15 @@ See the [Lessons](Lessons/) folder for the full session-by-session breakdown.
 
 ## Class Assignments
 
-**All assignments will be submitted via the course tracker.**
+**All assignments will be submitted via the course tracker.** "The course tracker" means two different places depending on the artifact:
+
+- **GitHub** — all homework: solution code, commits, pull requests, portfolio work. Submit the repo/PR link as instructed in each lesson.
+- **In-class forms** — the short, repeated stuff, each feeding a shared tracking spreadsheet:
+  - [Peer Interview Rubric](https://forms.gle/m8j2nLWB3HbgnGGx9) — filled out by the interviewer, about their partner
+  - [Self-Assessment](https://forms.gle/6cWUACVPmBtaY4jV8) — filled out by the interviewee, about themselves, right after receiving their rubric
+  - [Exit Ticket](https://forms.gle/hLLsHySp2BT7qXAZ7) — filled out by every student, individually, at the end of each session (the day's specific prompt is printed in that lesson)
+
+Same three forms are reused across all 14 sessions — just note the lesson number when you submit.
 
 ## Evaluation
 

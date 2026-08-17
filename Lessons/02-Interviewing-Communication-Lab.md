@@ -18,9 +18,10 @@
 
 *For whoever is teaching — students can skip to Overview.*
 
-- Have the Quick Feedback Card (embedded in Rapid-fire Breakouts) and the full Peer Interview Rubric ([Sample_Rubric.md](../Assignments/Sample_Rubric.md)) ready — both are built into this doc, nothing to print unless you prefer paper copies.
+- Have the Quick Feedback Card (embedded in Rapid-fire Breakouts) and the full Peer Interview Rubric ([Sample_Rubric.md](../Assignments/Sample_Rubric.md)) ready — both are built into this doc, nothing to print unless you prefer paper copies. The Quick Feedback Card (rounds 1-3) stays informal, on paper — it's not submitted anywhere. Only Problem 4's full rubric gets submitted, via the forms below.
 - Plan the partner assignments for the 2 rounds (problems 1-2, then problems 3-4) before class — see Rapid-fire Breakouts below. Pre-assigning avoids burning class time on students finding partners themselves.
-- Collect Exit Tickets via the course tracker; this is your fastest signal for who's coasting on a stronger partner during the breakouts.
+- Exit Tickets submit to the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7); this is your fastest signal for who's coasting on a stronger partner during the breakouts.
+- Problem 4's rubric submits via the [Peer Interview Rubric form](https://forms.gle/m8j2nLWB3HbgnGGx9) (interviewer) and [Self-Assessment form](https://forms.gle/6cWUACVPmBtaY4jV8) (interviewee).
 
 ## Overview: Why Reps Matter (10 min)
 
@@ -75,6 +76,12 @@ Work through this on your own for the full 25 minutes before comparing with your
 
 ## Rapid-fire Breakouts (1 hour 30 minutes)
 
+**Before you start, every round — the full communication checklist:**
+- Restate the problem
+- Ask clarifying questions
+- State your assumptions
+- Think out loud: brainstorm solutions, explain your rationale, discuss tradeoffs, suggest improvements
+
 **Instructions:**
 
 1. Your instructor will assign your partner for problems 1-2. One will play interviewer, one interviewee.
@@ -82,7 +89,7 @@ Work through this on your own for the full 25 minutes before comparing with your
 1. After each round, the interviewer fills out the Quick Feedback Card below and gives one verbal note before swapping.
 1. Swap roles and work through problem 2.
 1. Your instructor will assign a new partner for problems 3 and 4; repeat the above steps for each.
-1. **Problem 4 only:** instead of the Quick Feedback Card, the interviewer fills out the full [Peer Interview Rubric](../Assignments/Sample_Rubric.md) — this round counts toward your 6-of-8 in-class peer interview rubrics.
+1. **Problem 4 only:** instead of the Quick Feedback Card, the interviewer fills out the full [Peer Interview Rubric](../Assignments/Sample_Rubric.md) — this round counts toward your 6-of-8 in-class peer interview rubrics. Its Communication section is the same checklist above, as checkboxes instead of a reminder. Interviewer submits via the [Peer Interview Rubric form](https://forms.gle/m8j2nLWB3HbgnGGx9); interviewee submits their self-assessment via the [Self-Assessment form](https://forms.gle/6cWUACVPmBtaY4jV8).
 
 <details>
 <summary><strong>Quick Feedback Card</strong> — click to reveal (use for rounds 1-3)</summary>
@@ -103,7 +110,7 @@ Work through this on your own for the full 25 minutes before comparing with your
 **Practice Problems:**
 
 1. Given two arrays, determine if both arrays contain exactly the same elements, regardless of their order.
-1. Given a string containing a long text, find the most commonly occurring word in the text as well as its count.
+1. Given a string containing many words, find the most commonly occurring word in the text as well as its count.
 1. Given a sorted array, find the index of the first and last occurrence of a given element. If the given element is not found in the array, report that.
 1. Given an array a of numbers and a target value t, find two numbers that sum to `t` (that is, `a[i] + a[j] = t`).
 
@@ -113,7 +120,7 @@ As a full class, 2-3 volunteers share: what was different about giving feedback 
 
 ## Exit Ticket (5 minutes)
 
-**Students:** individually, no partner — submit via the course tracker before you go.
+**Students:** individually, no partner — submit via the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7) before you go.
 
 > Which communication step do you personally skip most often once you're under time pressure, and why do you think that happens?
 

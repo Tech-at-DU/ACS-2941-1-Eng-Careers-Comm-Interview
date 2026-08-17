@@ -20,7 +20,7 @@
 
 - Pre-assign partners for the exchange step in Part 1 and Part 2 (different partner for each part is fine and encouraged — more perspectives).
 - The Worked Example in the Overview is deliberately a third snippet, not Part 1 or Part 2 — don't substitute it for either graded sample.
-- Collect Exit Tickets via the course tracker.
+- Exit Tickets submit to the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7).
 
 ## Overview: The Third Skill (25 min)
 
@@ -156,7 +156,7 @@ As a class: where did people disagree about which bucket something belonged in? 
 
 ## Exit Ticket (10 minutes)
 
-**Students:** individually, no partner — submit via the course tracker before you go.
+**Students:** individually, no partner — submit via the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7) before you go.
 
 > Pick one bug you found today. Which bucket does it belong in — Syntax, Convention, or Logic/Interview-Readiness — and what's the specific test that puts it in that bucket and not one of the others?
 

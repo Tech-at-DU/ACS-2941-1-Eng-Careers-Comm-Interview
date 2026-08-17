@@ -1,6 +1,8 @@
 # Peer Interview Rubric
 
-Use this rubric when you're the "interviewer" in a mock interview breakout. Check off each item the interviewee demonstrates, and leave a short note. Give the completed rubric to the interviewee afterward — this is their feedback, not just a grade.
+Use this rubric when you're the "interviewer" in a mock interview breakout. Check off each item the interviewee demonstrates, and leave a short note. This is real feedback for your partner, not just a grade — talk them through it before you submit.
+
+**Interviewer:** once you're done, submit this rubric via the [Peer Interview Rubric form](https://forms.gle/m8j2nLWB3HbgnGGx9) — note the lesson number and your partner's name. This is what counts toward their 6-of-8.
 
 ## Communication (check all that apply)
 
@@ -41,3 +43,5 @@ Rate yourself 1-5 (1 = didn't do it, 5 = did it well). Compare against what your
 - Problem-solving process (pattern, pseudocode, testing): ___ / 5
 
 **One thing you'd change next time:**
+
+**Interviewee:** submit this via the [Self-Assessment form](https://forms.gle/6cWUACVPmBtaY4jV8), noting the lesson number.

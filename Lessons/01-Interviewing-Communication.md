@@ -21,13 +21,14 @@
 
 - This is the first pairing of the course, so open "find a partner" pairing is fine here — you don't need a pre-assigned rotation yet.
 - Have the Peer Interview Rubric ready (embedded below in Communication Role Play, master copy at [Sample_Rubric.md](../Assignments/Sample_Rubric.md)) — nothing to print, it's built into this doc.
-- Plan to collect Exit Tickets via the course tracker after class. This is your fastest signal for who's already lost — follow up 1:1 with anyone whose ticket raises a flag before Lesson 2, not after.
+- Exit Tickets submit to the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7) — this is your fastest signal for who's already lost. Follow up 1:1 with anyone whose ticket raises a flag before Lesson 2, not after.
+- The Communication Role Play rubric counts toward 6-of-8 — make sure students know to submit it via the [Peer Interview Rubric form](https://forms.gle/m8j2nLWB3HbgnGGx9) (interviewer) and [Self-Assessment form](https://forms.gle/6cWUACVPmBtaY4jV8) (interviewee), not just hand the paper/doc to their partner.
 
 ## Overview: Why Communication Matters (10 min)
 
-In a technical interview, a correct answer delivered silently loses to a good answer delivered out loud. Interviewers are grading how you think, not just what you produce — restating, asking questions, and narrating your reasoning is the only way they can see that. Today builds the habit of doing all of that on purpose, before it has to happen under pressure.
+In a technical interview, a correct answer worked out in silence loses to a wrong or incomplete answer worked out loud. Interviewers are grading **how** you think, not just what you produce — restating, asking questions, and narrating your reasoning is the only way they can see that. Today builds the habit of doing all of that on purpose, before it has to happen under pressure.
 
-**A note on AI tools:** for Lessons 1 through 4, you won't use AI coding assistants for any homework or in-class work. That's by design, not an oversight — you're building the underlying communication, planning, and syntax judgment that makes AI tools useful rather than a crutch. [Lesson 5](05-AI-Assisted-Coding-and-Interviewing.md) covers exactly when and how to bring AI into your process, once you have that foundation to bring AI *into*.
+**A note on AI tools:** for Lessons 1 through 4, you won't use AI coding assistants for any homework or in-class work. That's by design, not an oversight — you're building the underlying communication, planning, and syntax judgment that makes AI tools useful rather than a crutch. [Lesson 5](05-AI-Assisted-Coding-and-Interviewing.md) covers exactly when and how to bring AI into your process.
 
 ## Learning Outcomes
 
@@ -59,9 +60,9 @@ Interview Problem: *Write a function that takes two lists named a and b, and ret
 ### Part 1: Restate the Problem
 
 1. Write down your restatement of the problem
-1. With a partner, share your statement with them
-1. Compare and contrast your statements to ensure you both fully understand the problem
-1. Give each other feedback on problem statements
+1. With a partner, share your restatement with them
+1. Compare and contrast your restatements to ensure you both fully understand the problem
+1. Give each other feedback on problem restatements
 
 ### Part 2: Ask Clarifying Questions
 
@@ -85,12 +86,20 @@ Interview Problem: *Write a function that takes two lists named a and b, and ret
 
 ## Communication Role Play (20 min)
 
+**Before you start — the full communication checklist:**
+- Restate the problem
+- Ask clarifying questions
+- State your assumptions
+- Think out loud: brainstorm solutions, explain your rationale, discuss tradeoffs, suggest improvements
+
 Breakout into pairs. One person is interviewer, the other is interviewee. Use the same practice question and interview each other — 8 minutes each direction, 2 minutes of feedback after each.
 
-**This counts toward your 6-of-8 in-class peer interview rubrics.** **Students:** whoever is interviewing fills out the rubric below for their partner and hands it to them at the end of their turn; interviewees fill out the self-assessment at the bottom after receiving it. **Instructor:** no collection needed here — the rubric stays with the interviewee as their own record. (Master copy: [Sample_Rubric.md](../Assignments/Sample_Rubric.md).)
+**This counts toward your 6-of-8 in-class peer interview rubrics.** **Students:** the interviewer (the one asking questions and observing) fills out the rubric below for the interviewee and talks them through it at the end of their turn; the interviewee fills out the self-assessment at the bottom after hearing it. **Then submit:** interviewer submits via the [Peer Interview Rubric form](https://forms.gle/m8j2nLWB3HbgnGGx9), interviewee submits via the [Self-Assessment form](https://forms.gle/6cWUACVPmBtaY4jV8) — note the lesson number and your partner's name on both. (Master copy: [Sample_Rubric.md](../Assignments/Sample_Rubric.md).)
 
 <details>
 <summary><strong>Peer Interview Rubric</strong> — click to reveal</summary>
+
+The Communication section below checks the exact list you saw before you started — what you glanced at going in is what's graded coming out.
 
 ### Communication (check all that apply)
 
@@ -131,6 +140,12 @@ Rate yourself 1-5 (1 = didn't do it, 5 = did it well). Compare against what your
 
 ## Practice Problem (35 min)
 
+**Before you start — the full communication checklist:**
+- Restate the problem
+- Ask clarifying questions
+- State your assumptions
+- Think out loud: brainstorm solutions, explain your rationale, discuss tradeoffs, suggest improvements
+
 Problem: *Given an array of n numbers that are all unique except for one duplicate, find the duplicate number.*
 
 **Alone first, 5 minutes:** jot your own restatement, clarifying questions, and assumptions before you say anything to your partner. Then go through these steps together, and switch:
@@ -150,9 +165,9 @@ As a full class, 2-3 volunteer pairs briefly share one tricky moment from the Pr
 
 ## Exit Ticket (10 min)
 
-**Students:** individually, no partner — answer this in a few sentences and submit via the course tracker before you leave. It's checked for honesty and completion, not for impressing anyone.
+**Students:** individually, no partner — answer this in a few sentences and submit via the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7) before you leave (note the lesson number). It's checked for honesty and completion, not for impressing anyone.
 
-> In your own words, why does a correct answer delivered silently still lose to a weaker answer delivered out loud? On a scale of 1-5, how confident are you doing all four communication steps (restate, clarify, assumptions, think out loud) without a partner prompting you?
+> In your own words, why does a correct answer worked out in silence still lose to a wrong or incomplete answer worked out loud? On a scale of 1-5, how confident are you doing all four communication steps (restate, clarify, assumptions, think out loud) without a partner prompting you?
 
 **Instructor:** this is the fastest read you'll get on who's actually absorbing the process vs. who's leaning on their partner. Skim before Lesson 2 and flag anyone whose self-rating is low or whose explanation is thin.
 

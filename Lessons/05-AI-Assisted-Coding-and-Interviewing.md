@@ -22,7 +22,7 @@
 - Confirm ahead of time that students have access to at least one AI coding tool (free tier is fine — see the access note in Warm-Up). If your institution provides a licensed tool, say so here instead of leaving it to the note.
 - Pre-assign partners for Activity 2 and the Warm-Up/Activity 3 pairings.
 - Activity 2 is the centerpiece of this lesson — protect its time. If the class is running long, trim Activity 1's discussion before you trim Activity 2.
-- Collect Exit Tickets via the course tracker.
+- Exit Tickets submit to the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7).
 
 ## Overview: Two Skills at Once (10 min)
 
@@ -113,7 +113,7 @@ As a full class: after Activity 2, did anyone change their mind about how much t
 
 ## Exit Ticket (10 min)
 
-**Students:** individually, no partner — submit via the course tracker before you go.
+**Students:** individually, no partner — submit via the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7) before you go.
 
 > Was there a line in your AI-assisted solution today you could *not* confidently explain? If yes, which one, and why not. If no, what specifically did you do to make sure you understood all of it?
 
