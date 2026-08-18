@@ -123,7 +123,7 @@ If they ask something not covered here, make a reasonable call and stay consiste
 
 ## Debrief (15 minutes)
 
-As a full class: which was harder — writing pseudocode clear enough for someone else to code from blind, or coding from someone else's pseudocode? What does that tell you about how precise your planning needs to be before you start typing in a real interview?
+As a full class: which was harder — writing pseudocode clear enough for someone else to code from, or coding from someone else's pseudocode? What does that tell you about how precise your planning needs to be before you start typing in a real interview?
 
 ## Exit Ticket (5 minutes)
 
@@ -131,7 +131,7 @@ As a full class: which was harder — writing pseudocode clear enough for someon
 
 > In your own words, what's the difference between "finding a pattern" and "writing pseudocode"? Which one do you personally tend to skip or rush?
 
-**Instructor:** watch for students who describe the two steps identically — that usually means they're pattern-matching the vocabulary without actually doing the strategy differently step to step.
+<!-- **Instructor:** watch for students who describe the two steps identically — that usually means they're pattern-matching the vocabulary without actually doing the strategy differently step to step. -->
 
 ## Homework: Strategy Audit
 
