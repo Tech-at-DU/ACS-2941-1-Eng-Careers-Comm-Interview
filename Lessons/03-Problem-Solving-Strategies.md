@@ -43,7 +43,7 @@ By the end of this session, you will be able to describe and practice each of th
 
 ## Warm-Up: Simplify First (15 minutes)
 
-_**Interview Question:** Find the 5th largest value in an array of n numbers._
+_**Interview Question:** Find the 5th **largest** value in an array of n numbers._
 
 That's hard to picture at full size. Simplify it first:
 
