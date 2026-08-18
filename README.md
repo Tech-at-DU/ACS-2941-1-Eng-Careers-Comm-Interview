@@ -49,15 +49,16 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-**All assignments will be submitted via the course tracker.** "The course tracker" means two different places depending on the artifact:
+**All assignments will be submitted via the course tracker.** "The course tracker" means three different places depending on the artifact:
 
-- **GitHub** — all homework: solution code, commits, pull requests, portfolio work. Submit the repo/PR link as instructed in each lesson.
+- **GitHub** — all code homework: solution code, commits, pull requests, portfolio work. Submit the repo/PR link as instructed in each lesson.
 - **In-class forms** — the short, repeated stuff, each feeding a shared tracking spreadsheet:
   - [Peer Interview Rubric](https://forms.gle/m8j2nLWB3HbgnGGx9) — filled out by the interviewer, about their partner
   - [Self-Assessment](https://forms.gle/6cWUACVPmBtaY4jV8) — filled out by the interviewee, about themselves, right after receiving their rubric
   - [Exit Ticket](https://forms.gle/hLLsHySp2BT7qXAZ7) — filled out by every student, individually, at the end of each session (the day's specific prompt is printed in that lesson)
+- **Personal documents** — things that aren't code and aren't short structured entries (a behavioral prep worksheet, a resume/portfolio/LinkedIn checklist, a video interview recording): your choice of a private Google Doc/Drive link or your own repo, submitted via the [Assignment Link Submission form](https://forms.gle/o2rLExrzRuJWi7Px7).
 
-Same three forms are reused across all 14 sessions — just note the lesson number when you submit.
+Same four forms are reused across all 14 sessions — just note the lesson number when you submit.
 
 ## Evaluation
 

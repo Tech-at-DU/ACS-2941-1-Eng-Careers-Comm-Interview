@@ -27,6 +27,14 @@ Use this rubric when you're the "interviewer" in a mock interview breakout. Chec
 - [ ] Disclosed AI tool use clearly, if any was used or allowed
 - [ ] Could explain every part of their own solution when asked, regardless of how it was produced
 
+## Behavioral (STAR) — if applicable to this round
+
+- [ ] Named a specific, real situation — not vague or generic
+- [ ] Described their own individual action ("I," not just "we")
+- [ ] Gave a clear result, ideally with a measurable outcome
+- [ ] Answer was appropriately concise — not rambling, not too short
+- [ ] Actually answered the question asked, didn't drift off-topic
+
 ## Overall
 
 **Strengths observed:**
@@ -41,6 +49,7 @@ Rate yourself 1-5 (1 = didn't do it, 5 = did it well). Compare against what your
 
 - Communication (restating, clarifying, thinking out loud): ___ / 5
 - Problem-solving process (pattern, pseudocode, testing): ___ / 5
+- Behavioral answer structure (STAR, if applicable): ___ / 5
 
 **One thing you'd change next time:**
 
