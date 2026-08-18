@@ -26,7 +26,7 @@
 
 ## Overview: Two Skills at Once (10 min)
 
-By the time you're interviewing, AI coding tools (Copilot, Claude Code, Cursor, and similar) will be a normal part of a working developer's toolkit — employers expect you to know how to use them. But hiring pipelines have adapted: many technical interviews now explicitly restrict or ban AI assistance during live rounds, take-homes often *require* you to disclose what you used, and interviewers increasingly ask pointed follow-up questions specifically designed to check whether you understand code an AI helped you write. Being fluent with AI tools and being able to code and reason without them are both things you'll be evaluated on — often in the same interview loop.
+By the time you're interviewing, AI coding tools (Copilot, Claude Code, Cursor, and similar) will be a normal part of a working developer's toolkit — employers expect you to know how to use them. But hiring pipelines have adapted: many technical interviews now explicitly restrict or ban AI assistance during live rounds, take-homes often *require* you to disclose what you used, and interviewers increasingly ask pointed follow-up **questions specifically designed to check whether you understand code an AI helped you write.** Being fluent with AI tools and being able to code and reason without them are both things you'll be evaluated on — often in the same interview loop.
 
 ## Learning Outcomes
 
@@ -44,7 +44,7 @@ By the end of this session, you will be able to...
 - What AI coding tools do you currently use, if any? For what kinds of tasks?
 - Have you ever used one during a timed practice problem or an actual interview? What happened?
 - Would you trust code you generated with AI help if you had to explain it line-by-line to someone right now, with no tool open?
-- Do you have a paid AI subscription (ChatGPT Plus, Claude Pro, Copilot, Cursor Pro), or are you on free tiers? Has that made a noticeable difference in what you can do?
+- Do you have a paid AI subscription (ChatGPT Plus, Claude Pro, Copilot, Cursor Pro), or are you on free tiers? Has that made a noticeable difference in the code you write?
 
 **Then, with a partner (12 min):** compare answers.
 
@@ -59,11 +59,25 @@ By the end of this session, you will be able to...
 1. A take-home project with a multi-day deadline
 1. A system design conversation
 1. Debugging someone else's code during a pairing round
-1. A personal portfolio project you're asked to walk through
+1. A personal portfolio project you built before the interview, which you're now asked to walk through — did you need to disclose any AI use from when you *built* it?
 
 **Then, as a class (25 min):** go through each one. Where did your private answers disagree with the group?
 
 **Discuss:** Proctored platforms increasingly detect AI use directly (tab switching, paste volume, phone/second-screen detection). Assuming you can get away with unauthorized AI use is a bad bet — and even where it's technically undetectable, getting caught later (e.g. failing to explain your own solution) costs you more than a slower, honest answer would have.
+
+<details>
+<summary><strong>Answer key</strong> — reveal after the class discussion, not before</summary>
+
+1. **Live coding round, interviewer watching — banned.** Near-universal default. Real-time observed performance is exactly what's being evaluated; assume banned unless the interviewer explicitly says otherwise.
+1. **Proctored platform with lockdown browser/webcam — banned.** The proctoring exists specifically to enforce this. Assume detection is real.
+1. **Take-home, multi-day deadline — allowed with disclosure.** Done on your own time and machine. Most companies now expect tool use; the ask is that you say how you used it.
+1. **System design conversation — it depends, ask.** Format varies a lot company to company — some treat it like a live round (banned), some are fine with you referencing documentation or a tool for a specific lookup. Ask directly rather than guessing: *"Is it okay if I reference [specific thing] during this?"*
+1. **Debugging someone else's code in a pairing round — leans banned, but ask.** It's live and observed like #1, so default to banned — but pairing formats vary enough that confirming with the interviewer up front is worth the ten seconds it costs.
+1. **Portfolio project walkthrough — disclosure, not a ban.** There's no "live" AI question here since you're just talking through work you already did. The real expectation is the same as a take-home: if you used AI significantly while building it, be ready to say so and to explain any part of it if asked.
+
+Notice the pattern: 3 of 6 have a confident default answer, 2 are genuinely "ask," and 1 was asking the wrong question entirely. Learning to tell which is which — not memorizing this list — is the actual point.
+
+</details>
 
 ## Break (10 min)
 
