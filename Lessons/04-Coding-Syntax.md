@@ -36,7 +36,7 @@ That third bucket is the one people miss. "It runs and looks clean" is not the s
 
 **Roadmap — work in this order, don't jump around:**
 
-1. Read the whole snippet once without touching anything. Restate what it's *supposed* to do, in one sentence (same move as Lesson 1).
+1. Read the whole snippet once without touching anything. Restate what it's *supposed* to do, in one sentence (same as Lesson 1).
 2. Trace it by hand on a small input. Does it actually produce what you just said it should?
 3. **Find Syntax Errors first.** Look for anything that stops the code from running at all: mismatched brackets, wrong keywords, invalid assignment targets, misspelled reserved words. You can't judge style or logic in code that doesn't run.
 4. **Then Convention Violations.** Naming casing, spacing, docstring format, `var` vs. `let`, missing `self`.
@@ -46,7 +46,7 @@ One more thing to watch for, specific to this lesson: code that looks like it wa
 
 ### Quick Reference
 
-- **Syntax Error** — throws, or fails to run at all. Quick test: if everything after this line were deleted, would it still crash?
+- **Syntax Error** — fails before the program can run at all, or crashes the instant that line executes, no matter what input you give it. Quick test: is there *any* input that would let this line execute without blowing up? If no — for any input — that's syntax, not logic.
 - **Convention Violation** — runs fine, but a reviewer would leave a nitpick on it: naming, spacing, `var` vs `let`, a missing `self`.
 - **Logic / Interview-Readiness** — runs, even styled correctly, but still produces the wrong answer, is inefficient, or can't be verified (no return value, an unhandled edge case, an off-by-one).
 
