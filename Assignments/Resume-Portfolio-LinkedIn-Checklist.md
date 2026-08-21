@@ -11,7 +11,7 @@ Work through this checklist section by section. It's meant to be used across bot
 - [ ] Projects section lists 2-4 projects max, with the tech stack for each
 - [ ] Skills section lists only things you can defend in an interview — no keyword-stuffing tools you've touched once
 - [ ] If you used AI tools significantly on a listed project, be ready to explain what you did vs. what the tool did — don't list "AI-assisted development" as a skill on its own; list the actual technical skills you exercised while using it
-- [ ] Run it through at least one ATS-checker/keyword-match tool and note what it flags — but never let ATS-optimization produce a bullet that isn't true
+- [ ] Run it through at least one ATS (Applicant Tracking System) checker/keyword-match tool and note what it flags — but never let ATS-optimization produce a bullet that isn't true
 - [ ] Spell-checked, and read out loud once to catch phrasing issues
 
 ## Portfolio
