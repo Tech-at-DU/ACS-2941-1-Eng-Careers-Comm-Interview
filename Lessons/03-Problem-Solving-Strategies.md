@@ -154,5 +154,3 @@ This doubles as portfolio material: a real PR with a real diff and a real write-
 ## Wrap-Up
 
 Fill out the class feedback form with any thoughts & feelings from class today that you'd like your instructors to know.
-
-
