@@ -13,7 +13,7 @@
 | 2:25    | 0:10 | Debrief | Whole class |
 | 2:35    | 0:05 | Exit Ticket | Solo |
 | 2:40    | 0:05 | Wrap-Up | Whole class |
-| **Total** | **2:45** | | |
+| **Total** | **2:45** |  |  |
 
 ## Instructor Setup
 
