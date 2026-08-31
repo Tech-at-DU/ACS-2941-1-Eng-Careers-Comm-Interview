@@ -19,19 +19,19 @@
 
 *For whoever is teaching — students can skip to Overview.*
 
-- This lesson is planning-heavy and light on live role-play by design (see Overview) — resist the urge to add more talk-time; the Silent Pseudocode Handoff depends on students staying quiet during the implementation step.
-- Split the room roughly in half before Activity 2 (Silent Pseudocode Handoff) — half gets Problem 3, half gets Problem 4.
+- This lesson is planning-heavy and light on live role-play (see Overview) — resist the urge to add more talk-time; the Silent Pseudocode Handoff depends on students staying quiet during the implementation step.
+- Split the room in half before Activity 2 (Silent Pseudocode Handoff) — half gets Problem 3, half gets Problem 4.
 - Pre-assign partners for Activity 3 (two rounds: Problem 2, then whichever of 3/4 they didn't already do).
 - Have the Peer Interview Rubric ([Sample_Rubric.md](../Assignments/Sample_Rubric.md)) ready for Activity 3's second round — submits via the [Peer Interview Rubric form](https://forms.gle/m8j2nLWB3HbgnGGx9) (interviewer) and [Self-Assessment form](https://forms.gle/6cWUACVPmBtaY4jV8) (interviewee).
 - Exit Tickets submit to the [Exit Ticket form](https://forms.gle/hLLsHySp2BT7qXAZ7).
 
 ## Overview: A Different Kind of Practice (10 min)
 
-Lessons 1 and 2 drilled *how you talk about* a solution — restate, clarify, assumptions, think out loud. Today shifts to *how you build one*: simplify the problem, find a pattern, plan before you code, check your work after. Same interview, different half of the skill. The activities today are shaped differently on purpose — less live role-play, more planning-on-paper — because that's the part this strategy actually lives in.
+Lessons 1 and 2 drilled *how you talk about* a solution — restate, clarify, assumptions, think out loud. Today shifts to *how you build a solution*: simplify the problem, find a pattern, plan before you code, check your work after. Same interview, different skill. The activities today are shaped differently — less live role-play, more planning-on-paper.
 
 ## Learning Outcomes
 
-By the end of this session, you will be able to describe and practice each of the problem-solving setps of the technical interview process:
+By the end of this session, you will be able to describe and practice each of the problem-solving steps of the technical interview process:
 
 1. Generate reasonable test inputs
 1. Understand & solve the problem
@@ -45,7 +45,7 @@ By the end of this session, you will be able to describe and practice each of th
 
 _**Interview Question:** Find the 5th **largest** value in an array of n numbers._
 
-That's hard to picture at full size. Simplify it first:
+That's hard to picture, simplify it first:
 
 1. Alone: solve the smaller version by hand — find the **2nd** largest value in a 5-element array. Write out exactly what you did, step by step.
 1. Generalize: how does your hand-solved approach extend from "2nd largest of 5" to "5th largest of n"? What stays the same, what has to change?
