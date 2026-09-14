@@ -8,8 +8,8 @@
 | 0:25    | 0:40 | Part 1: JavaScript Sample |
 | 1:05    | 0:10 | BREAK |
 | 1:15    | 0:40 | Part 2: Python Sample |
-| 1:55    | 0:25 | Restate & Verify |
-| 2:20    | 0:10 | Debrief |
+| 1:55    | 0:20 | Restate & Verify |
+| 2:15    | 0:15 | Debrief |
 | 2:30    | 0:10 | Exit Ticket |
 | 2:40    | 0:05 | Wrap-Up |
 | **Total** | **2:45** | |
@@ -141,7 +141,7 @@ print(q.dequeue())
 
 Same process as Part 1 — solo, sort into the three buckets, partner exchange with PR-style comments, then fix it. A few things to specifically watch for here: this snippet has syntax from a different language bleeding through in more than one place (the note from the Overview). Once it runs and is styled correctly, also look at what `dequeue` does with an empty queue, and how `pop(0)` on a plain list behaves as the queue grows — both are Logic/Interview-Readiness, not syntax or style.
 
-## Restate & Verify (25 min)
+## Restate & Verify (20 min)
 
 **Individually — not with your partner.** For **both** of your fixed functions:
 
