@@ -37,7 +37,7 @@ By the end of the course, you will be able to ...
 | 3  | [Problem Solving Strategy](Lessons/03-Problem-Solving-Strategies.md) | Simplify the problem, find a pattern, plan before you code |
 | 4  | [Coding Syntax & Conventions](Lessons/04-Coding-Syntax.md) | Syntax errors, convention violations, interview-readiness |
 | 5  | [AI-Assisted Coding and Interviewing](Lessons/05-AI-Assisted-Coding-and-Interviewing.md) | When AI is allowed, disclosure, defending AI-assisted code |
-| 6  | [Behavioral Interviewing](Lessons/06-Behavioral-Interviews.md) | STAR method, common behavioral questions |
+| 6  | [Behavioral Interviewing](Lessons/06-Behavioral-Interviews.md) | STAR method, common behavioral questions [Tiered Problems](https://github.com/Tech-at-DU/ACS-2941-1-Eng-Careers-Comm-Interview/blob/master/Assignments/Tiered-Problem-Bank.md#diagnostic-session) |
 | 7  | [Test Cases](Lessons/07-Test-Cases.md) | Good/normal, bad/unusual, and edge case inputs |
 | 8  | [Resume/Career Lab I](Lessons/08-Resume-Lab-I.md) | Resume and portfolio work |
 | 9  | [Whiteboard Coding](Lessons/09-Whiteboard-Coding.md) | Tracing code by hand with a variable table |
