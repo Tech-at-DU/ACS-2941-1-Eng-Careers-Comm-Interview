@@ -32,19 +32,19 @@ By the end of the course, you will be able to ...
 
 | Session | Lesson | Focus |
 | ------- | ------ | ----- |
-| 1  | [Interviewing Communication](Lessons/01-Interviewing-Communication.md) | Communication steps: restate, clarify, assumptions, think out loud |
-| 2  | [Interviewing Communication Lab](Lessons/02-Interviewing-Communication-Lab.md) | Reps under time pressure across multiple problems and partners |
-| 3  | [Problem Solving Strategy](Lessons/03-Problem-Solving-Strategies.md) | Simplify the problem, find a pattern, plan before you code |
-| 4  | [Coding Syntax & Conventions](Lessons/04-Coding-Syntax.md) | Syntax errors, convention violations, interview-readiness |
-| 5  | [AI-Assisted Coding and Interviewing](Lessons/05-AI-Assisted-Coding-and-Interviewing.md) | When AI is allowed, disclosure, defending AI-assisted code |
-| 6  | [Behavioral Interviewing](Lessons/06-Behavioral-Interviews.md) | STAR method, common behavioral questions [Tiered Problems](https://github.com/Tech-at-DU/ACS-2941-1-Eng-Careers-Comm-Interview/blob/master/Assignments/Tiered-Problem-Bank.md#diagnostic-session) |
-| 7  | [Test Cases](Lessons/07-Test-Cases.md) | Good/normal, bad/unusual, and edge case inputs |
-| 8  | [Resume/Career Lab I](Lessons/08-Resume-Lab-I.md) | Resume and portfolio work |
-| 9  | [Whiteboard Coding](Lessons/09-Whiteboard-Coding.md) | Tracing code by hand with a variable table |
-| 10 | [Resume/Career Lab II](Lessons/10-Resume-Lab-II.md) | Resume and portfolio peer review |
-| 11 | [Industry Contacts](Lessons/11-Industry-Contacts.md) | Networking and informational interviews |
-| 12 | [Complexity Analysis](Lessons/12-Complexity-Analysis.md) | Big O runtime and space complexity |
-| 13 | [Interview Practice](Lessons/13-Interview-Practice.md) | Timed practice problems |
+| 1 Aug 24 | [Interviewing Communication](Lessons/01-Interviewing-Communication.md) | Communication steps: restate, clarify, assumptions, think out loud |
+| 2 Aug 26 | [Interviewing Communication Lab](Lessons/02-Interviewing-Communication-Lab.md) | Reps under time pressure across multiple problems and partners |
+| 3 Aug 31 | [Problem Solving Strategy](Lessons/03-Problem-Solving-Strategies.md) | Simplify the problem, find a pattern, plan before you code |
+| 4 Sep 2 | [Coding Syntax & Conventions](Lessons/04-Coding-Syntax.md) | Syntax errors, convention violations, interview-readiness |
+| 5 Sep 9 | [AI-Assisted Coding and Interviewing](Lessons/05-AI-Assisted-Coding-and-Interviewing.md) | When AI is allowed, disclosure, defending AI-assisted code |
+| 6 Sep 14 | [Behavioral Interviewing](Lessons/06-Behavioral-Interviews.md) | STAR method, common behavioral questions [Tiered Problems](https://github.com/Tech-at-DU/ACS-2941-1-Eng-Careers-Comm-Interview/blob/master/Assignments/Tiered-Problem-Bank.md#diagnostic-session) |
+| 7 Sep 16 | [Test Cases](Lessons/07-Test-Cases.md) | Good/normal, bad/unusual, and edge case inputs |
+| 8 Sep 21 | [Resume/Career Lab I](Lessons/08-Resume-Lab-I.md) | Resume and portfolio work |
+| 9 Sep 23 | [Whiteboard Coding](Lessons/09-Whiteboard-Coding.md) | Tracing code by hand with a variable table |
+| 10 Sep 28 | [Resume/Career Lab II](Lessons/10-Resume-Lab-II.md) | Resume and portfolio peer review |
+| 11 Sep 30 | [Industry Contacts](Lessons/11-Industry-Contacts.md) | Networking and informational interviews |
+| 12 Oct 5 | [Complexity Analysis](Lessons/12-Complexity-Analysis.md) | Big O runtime and space complexity |
+| 13 Oct 7 | [Interview Practice](Lessons/13-Interview-Practice.md) | Timed practice problems |
 | 14 | [Final Exam Review & Original Problems](Lessons/14-Original-Problems.md) | Final review, mock interviews with original problems |
 
 ## Class Assignments
