@@ -13,6 +13,10 @@ By the end of today, you should be able to...
 1. Use resources available to get the information of relevant contacts. 
 1. Compose a message to either start a conversation or following up with an existing contact.
 
+## Quick Recall (2 min)
+
+Before we start: without looking anything up, name one signal in a problem statement that tells you to reach for a hash map. Ungraded, just keeping [Lesson 9's pattern](09-Whiteboard-Coding.md) warm.
+
 ## Warm-Up: Personal Odyssey (15 minutes)
 
 1. Partner A: Share your Personal Odyssey (a 2-3 minute narrative about your path into tech and what you're looking for next) with a partner.

@@ -26,7 +26,14 @@
 
 ## Overview: Why This Still Matters (10 min)
 
-A resume that survives 2027/28 hiring has to clear two different readers: an ATS (Applicant Tracking System — the software that scans and keyword-matches resumes before a human sees them) keyword pass, and then a human who's skimming for 20 seconds. Neither of those readers is impressed by a resume that "looks nice" — they're both looking for specific, checkable claims. Today and in [Resume Lab II](10-Resume-Lab-II.md), you're not polishing prose, you're auditing evidence.
+No slides — run this as a cold-open discussion. Write the two words **ATS** and **HUMAN** on the board and ask: "Your resume gets read by two completely different readers before you ever talk to anyone. What is each one actually looking for?" Let students guess before filling in:
+
+- **ATS** (Applicant Tracking System — software that scans and keyword-matches resumes before a human sees them): matches keywords from the job posting. Doesn't care about prose quality, cares whether the right terms appear.
+- **Human**: skims for ~20 seconds. Doesn't care about keyword density, cares whether claims look specific and checkable.
+
+Land the point: neither reader is impressed by a resume that "looks nice." Both are looking for specific, checkable claims. Today and in [Resume Lab II](10-Resume-Lab-II.md), students aren't polishing prose, they're auditing evidence.
+
+**Where AI fits (2 min):** ask the room — "Is it fine to use ChatGPT/Claude to help write your resume?" Take a few answers, then land on the actual line: AI is good for polishing a weak bullet, tailoring keywords to a specific posting, catching passive voice. It's a problem the moment it invents an achievement or writes a bullet from scratch with no real input behind it — both because that reads as generic to an increasingly AI-aware ATS/recruiter, and because of the Warm-Up's third criterion below: if you can't defend it live in an interview with no notice, it doesn't belong on the resume, AI-assisted or not.
 
 ## Learning Outcomes
 

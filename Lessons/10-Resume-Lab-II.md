@@ -4,6 +4,10 @@
 
 *(Add link to slide deck)*
 
+## Quick Recall (2 min)
+
+Before we start: without looking anything up, write one sentence describing when you'd reach for a hash map and why. Ungraded, just keeping [Monday's pattern](09-Whiteboard-Coding.md) warm — compare with a neighbor if you're unsure.
+
 ## Activity: Resume Peer Reviews (30 minutes)
 
 Choose Partners A and B. Partner A will:

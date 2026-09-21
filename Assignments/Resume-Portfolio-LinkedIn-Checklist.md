@@ -31,6 +31,23 @@ Work through this checklist section by section. It's meant to be used across bot
 - [ ] Skills section endorsed/filled in, matches your resume
 - [ ] Open to Work setting configured appropriately (and who can see it)
 
+## Using AI Effectively
+
+AI tools are good for polishing and tailoring — not for inventing. The rule from Lab I still applies: if you can't defend a line live with no notice, it doesn't go on the resume, AI-assisted or not. Give the AI your real facts; use it to sharpen the wording, not supply the substance.
+
+Prompts worth trying (paste your own bullet/details in place of the brackets):
+
+- *"Rewrite this bullet to lead with an outcome instead of a responsibility. Don't add any numbers or claims I didn't give you — flag where a number would help and I'll fill it in: [bullet]"*
+- *"Here's a job posting: [paste]. Here's my current bullet: [bullet]. Does my bullet already reflect the language/keywords this posting cares about? Suggest a rewording using only skills I actually have."*
+- *"Read this bullet like a skeptical hiring manager. Is anything vague, unquantified, or a responsibility disguised as an outcome? [bullet]"*
+- *"I used AI tools while building this project, specifically for [X]. Help me write a one-line README disclosure that's specific about what I did vs. what the tool did."*
+
+Bad prompt, don't do this: *"Write me a resume bullet for a software engineering internship."* That produces a generic, unverifiable claim with nothing behind it — exactly what the ATS check and the "defend it live" test above are designed to catch.
+
 ## Homework Deliverable
 
-Submit a link to your resume (PDF), portfolio (live site or GitHub Pages), and LinkedIn profile via the course tracker.
+Submit via the [Assignment Link Submission form](https://forms.gle/o2rLExrzRuJWi7Px7):
+
+- **Resume** — export as PDF, upload to Google Drive (or your own repo), set sharing so anyone with the link can view, paste that link in the form. Don't attach the PDF to the form itself — link only.
+- **Portfolio** — link to your live site or GitHub Pages.
+- **LinkedIn** — link to your public profile URL.
