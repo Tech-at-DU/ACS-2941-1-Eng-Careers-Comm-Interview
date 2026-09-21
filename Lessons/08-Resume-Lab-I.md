@@ -26,7 +26,7 @@
 
 ## Overview: Why This Still Matters (10 min)
 
-No slides — run this as a cold-open discussion. Write the two words **ATS** and **HUMAN** on the board and ask: "Your resume gets read by two completely different readers before you ever talk to anyone. What is each one actually looking for?" Let students guess before filling in:
+Write the two words **ATS** and **HUMAN** on the board and ask: "Your resume gets read by two completely different readers before you ever talk to anyone. What is each one actually looking for?" Let students guess before filling in:
 
 - **ATS** (Applicant Tracking System — software that scans and keyword-matches resumes before a human sees them): matches keywords from the job posting. Doesn't care about prose quality, cares whether the right terms appear.
 - **Human**: skims for ~20 seconds. Doesn't care about keyword density, cares whether claims look specific and checkable.
