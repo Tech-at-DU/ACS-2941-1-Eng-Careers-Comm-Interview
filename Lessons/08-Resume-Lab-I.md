@@ -42,6 +42,7 @@ By the end of today, you will be able to...
 1. **Audit** your current resume against concrete, specific criteria — not "does it look nice"
 1. **Rewrite** weak resume bullets into outcome-driven ones
 1. **Identify** gaps in your portfolio that a hiring manager or an ATS would flag
+1. **Tailor** your resume's language toward a specific real job listing
 
 ## Warm-Up: Resume Self-Audit (10 min)
 
@@ -54,6 +55,8 @@ By the end of today, you will be able to...
 Where's your weakest score? That's likely where to spend the most time today.
 
 ## Lab Time: Resume & Portfolio, Part 1 (1 hour)
+
+**First 5 minutes:** find one real job listing you'd actually apply for — entry-level SWE, the specific role doesn't matter as much as it being real. Keep the tab open. This is your tailoring target for the rest of the lab: as you work the checklist, pull language directly from the listing (their words for your skills, not synonyms) and check your bullets against what it's actually asking for. It's also exactly what the checklist's ATS-checker step and the "here's a job posting" AI prompt need to be useful — an audit against nothing doesn't tell you much.
 
 Work through the **Resume** section of the [Resume, Portfolio & LinkedIn Checklist](../Assignments/Resume-Portfolio-LinkedIn-Checklist.md). Your instructor will meet with you 1-on-1 during this time — keep working independently until it's your turn.
 
