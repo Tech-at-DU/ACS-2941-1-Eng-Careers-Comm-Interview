@@ -98,6 +98,14 @@ function firstUniqChar(s) {
 
 Working in Python instead? Translate whichever problem you pick — same bug, same logic, `dict` in place of the object.
 
+**Strategy for finding the bug:**
+
+- Know the expected output *before* you trace — pick an input, work out the right answer by hand first, then compare against what the code actually produces.
+- Trace every line, don't skim to the part that "looks suspicious." The bug is often in a line that looks fine at a glance.
+- For a hash map specifically, check the *order* of operations at each step: does this line read from the map or write to it? Is it doing that before or after the check that depends on it? Most hash map bugs are an insert and a check happening in the wrong order, not a wrong data structure.
+- If your first input doesn't expose a mismatch, don't assume the code is correct — try an input with a repeated value or a value that could match itself, since those are exactly where insert/check-order bugs hide.
+- Found a mismatch? Don't guess-fix. Go back to the variable table and find the exact line where the traced value first diverges from what you expected.
+
 ## Activity: Code Tracing
 
 1. Choose one problem from the [Code-Tracing Set](#code-tracing-set) above. Each solution contains at least one bug that you will be tasked with fixing.
