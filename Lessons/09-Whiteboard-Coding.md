@@ -98,6 +98,34 @@ function firstUniqChar(s) {
 
 Working in Python instead? Translate whichever problem you pick — same bug, same logic, `dict` in place of the object.
 
+## Refresher: What a Variable Table Actually Looks Like
+
+If it's been a while — a variable table is just a table you fill in by hand, one row per step, showing what every variable holds *at that exact point* in the code. No running it, no guessing: you write down what you're sure of, line by line.
+
+Worked example, tracing this (correct, no bug) function with `s = "aba"`:
+
+```js
+function countChar(s) {
+  const counts = {};
+  for (const char of s) {
+    counts[char] = (counts[char] || 0) + 1;
+  }
+  return counts;
+}
+```
+
+| Step | Line executed | `char` | `counts` before | `counts` after |
+| ---- | -------------- | ------ | ---------------- | --------------- |
+| 1 | `const counts = {}` | — | — | `{}` |
+| 2 | `counts[char] = ...` | `'a'` | `{}` | `{a: 1}` |
+| 3 | `counts[char] = ...` | `'b'` | `{a: 1}` | `{a: 1, b: 1}` |
+| 4 | `counts[char] = ...` | `'a'` | `{a: 1, b: 1}` | `{a: 2, b: 1}` |
+| 5 | `return counts` | — | — | `{a: 2, b: 1}` |
+
+Return value: `{a: 2, b: 1}`.
+
+That's it — one row every time a line runs that changes state, tracking every variable that's live at that point. For today's three problems, that means a column for the loop variable and a column for the hash map (`seen`/`counts`), updated row by row, so a bug shows up as the exact row where the value stops matching what you worked out by hand beforehand.
+
 **Strategy for finding the bug:**
 
 - Know the expected output *before* you trace — pick an input, work out the right answer by hand first, then compare against what the code actually produces.
