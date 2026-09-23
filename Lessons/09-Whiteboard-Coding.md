@@ -39,6 +39,81 @@ for num in nums:
 
 Two Sum is the clearest example: brute force checks every pair (`nums[i] + nums[j] == target`, O(n²)). The hash map version stores each number as a key while looping once — for each `num`, check if `target - num` is already a key you've seen. One pass, O(n).
 
+## Warm-Up: Read and Write a Hash Map (10 min)
+
+Before the buggy code, get the syntax into your fingers. Work alone, on paper or in a scratch file, then compare with a neighbor. Answers are hidden below each one, so commit to a prediction first.
+
+### 1. Predict the output
+
+```js
+const ages = { maya: 30, leo: 25 };
+ages.sam = 41;
+
+console.log(ages["leo"]);
+console.log(ages.zoe);
+console.log("maya" in ages);
+console.log(Object.keys(ages).length);
+```
+
+<details>
+<summary>Answers</summary>
+
+`25`, `undefined`, `true`, `3`. Reading a key that isn't there gives `undefined`, not an error. That is what makes the "have I seen this?" check work. (Python: `ages["zoe"]` raises a `KeyError`, so use `"zoe" in ages` or `ages.get("zoe")`.)
+
+</details>
+
+### 2. Parse one line
+
+This is the line you'll see in almost every hash map problem today:
+
+```js
+const counts = {};
+counts["a"] = (counts["a"] || 0) + 1;
+counts["a"] = (counts["a"] || 0) + 1;
+counts["b"] = (counts["b"] || 0) + 1;
+console.log(counts);
+```
+
+1. The first time through, what does `counts["a"]` evaluate to? What does `counts["a"] || 0` evaluate to?
+1. The second time through, what are those two values?
+1. What gets printed?
+
+<details>
+<summary>Answers</summary>
+
+1. `undefined`, then `0`. `undefined` is falsy, so `||` falls back to `0`. Then `0 + 1` is stored.
+1. `1`, then `1`. It's truthy, so `||` keeps it. Then `1 + 1` is stored.
+1. `{ a: 2, b: 1 }`
+
+Read the line right to left: get the current count (or `0` if the key is new), add one, store it back under the same key. (Python: `counts[char] = counts.get(char, 0) + 1`.)
+
+</details>
+
+### 3. Write it: has a duplicate?
+
+Write `hasDuplicate(nums)`. It returns `true` if any number appears more than once, `false` otherwise. Use an object called `seen`, and loop through the array once.
+
+- `hasDuplicate([1, 2, 3, 1])` returns `true`
+- `hasDuplicate([1, 2, 3])` returns `false`
+
+<details>
+<summary>Answer</summary>
+
+```js
+function hasDuplicate(nums) {
+  const seen = {};
+  for (const num of nums) {
+    if (seen[num] !== undefined) return true;
+    seen[num] = true;
+  }
+  return false;
+}
+```
+
+Notice the order: check the map first, then add the current value. Keep that in mind for the next section. (Python: `if num in seen: return True`, then `seen[num] = True`.)
+
+</details>
+
 ## Code-Tracing Set
 
 Each problem below has exactly one bug. All three use a hash map — the bug is never "wrong pattern," it's an off-by-one, a wrong comparison, or a typo in how the map is used. That's deliberate: this is what hash map bugs actually look like in practice.
