@@ -46,6 +46,8 @@ Each problem below has exactly one bug. All three use a hash map — the bug is 
 ### 1. Two Sum
 
 > Given an array of integers `nums` and an integer `target`, return the indices of the two numbers that add up to `target`.
+>
+> Trace it with `nums = [3, 2, 4]`, `target = 6` — a canonical example like `[2, 7, 11, 15]`/`9` won't expose this bug, so use the input given here for your "good/normal" case.
 
 ```js
 function twoSum(nums, target) {
