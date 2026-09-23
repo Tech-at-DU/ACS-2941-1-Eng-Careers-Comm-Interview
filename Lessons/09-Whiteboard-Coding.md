@@ -114,9 +114,22 @@ Working in Python instead? Translate whichever problem you pick — same bug, sa
 1. Use a variable table to trace through the code to find the error — **no AI tools, no running the code yet.**
 1. Use [Python Tutor](https://pythontutor.com) to check your work.
 1. If you spot the error right away, still go through the steps of the variable table!
-1. Submit your solution when finished.
 
 This is the one skill an AI assistant can't do for you live on a whiteboard or shared screen: interviewers watch how you trace state by hand, because it's exactly what breaks down when someone has only ever debugged with a tool doing it for them.
+
+### Deliverable
+
+A working fix isn't the deliverable — an AI tool can produce that in one prompt with zero understanding of hash maps. What you submit has to prove you did the trace, not just that the code runs. Push to a GitHub repo:
+
+1. **Your variable table** — photo or scan of the paper version, or a typed recreation if you worked digitally. This has to show the actual state you traced, not a clean redo after the fact.
+1. **The fixed code.**
+1. **A short written explanation (3-5 sentences)**, in your own words, covering:
+   - What line was wrong, and what it was doing instead of what it should've done
+   - Why this problem calls for a hash map in the first place — what signal in the problem statement pointed there
+   - What input exposed the bug, and why a "normal-looking" input might not have
+1. Submit the repo link via the course tracker.
+
+You can use AI to double-check your fix once you've found it — that's fine. The variable table and the explanation have to be yours: if you can't reproduce that explanation out loud with no notes when your instructor asks, that's the same gap as submitting an AI-written resume bullet you can't defend.
 
 ## Homework
 
