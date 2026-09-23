@@ -66,6 +66,8 @@ function twoSum(nums, target) {
 ### 2. Valid Anagram
 
 > Given two strings `s` and `t`, return whether `t` is an anagram of `s`.
+>
+> Trace it with `s = "ab"`, `t = "abc"` — a false-case guess like `"rat"`/`"car"` won't expose this bug, so use the input given here for your "good/normal" case.
 
 ```js
 function isAnagram(s, t) {
