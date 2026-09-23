@@ -142,10 +142,35 @@ That's it — one row every time a line runs that changes state, tracking every 
 1. Read over the problem statement and the code. **Before tracing, say out loud what pattern the code is using and why.**
 1. Create a “good/normal” input for the function.
 1. Use a variable table to trace through the code to find the error — **no AI tools, no running the code yet.**
-1. Use [Python Tutor](https://pythontutor.com) to check your work.
+1. Check your work with [Python Tutor](https://pythontutor.com) or Node (see [Checking Your Work](#checking-your-work) below).
 1. If you spot the error right away, still go through the steps of the variable table!
 
 This is the one skill an AI assistant can't do for you live on a whiteboard or shared screen: interviewers watch how you trace state by hand, because it's exactly what breaks down when someone has only ever debugged with a tool doing it for them.
+
+### Checking Your Work
+
+Only after you've finished your trace by hand. The problems are written in JS, so you have two options, neither requires rewriting the code:
+
+**Option 1: Node.** Save the function to a file, add a call at the bottom that prints the result, and run it:
+
+```js
+// twosum.js
+function twoSum(nums, target) {
+  // ...the function from above, with your fix...
+}
+
+console.log(twoSum([3, 2, 4], 6));
+```
+
+```bash
+node twosum.js
+```
+
+Compare the printed output to what your variable table predicted. Try the input you traced *and* one or two others.
+
+**Option 2: Python Tutor.** [pythontutor.com](https://pythontutor.com) supports JavaScript — on the "Write code" page, change the language dropdown from Python to **JavaScript**, paste the function plus a call at the bottom (same as above, `console.log` optional), and step through. It shows the hash map's contents changing line by line, which is a good way to compare against your own table.
+
+Working in Python? You can rewrite the problem in Python and use Python Tutor's default mode, but that's extra work. Not required.
 
 ### Deliverable
 
