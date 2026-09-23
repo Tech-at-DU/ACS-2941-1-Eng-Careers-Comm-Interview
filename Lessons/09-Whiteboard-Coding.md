@@ -84,6 +84,8 @@ function isAnagram(s, t) {
 ### 3. First Unique Character
 
 > Given a string `s`, return the index of the first character that appears exactly once. Return `-1` if there is none.
+>
+> Trace it with `s = "leetcode"` (expected `0`). An input with no unique character, like `"aabb"`, returns the right answer by accident and won't expose this bug.
 
 ```js
 function firstUniqChar(s) {
