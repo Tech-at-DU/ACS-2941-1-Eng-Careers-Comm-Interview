@@ -157,5 +157,5 @@ After 10 minutes, switch partners.
 
 ## Homework
 
-- Before next class: Write your Personal Odyssey (a 2-3 minute narrative about your path into tech and what you're looking for next) and be ready to share with a partner
+- Before next class: Write your Personal Odyssey (a 2-3 minute narrative about your path into tech and what you're looking for next) and be ready to share with a partner. Not sure what this is or why it matters? See the explanation at the start of [Lesson 11's warm-up](11-Industry-Contacts.md#warm-up-personal-odyssey-15-minutes) before you start writing.
 - Complete the [Resume, Portfolio & LinkedIn Checklist](../Assignments/Resume-Portfolio-LinkedIn-Checklist.md) in full and submit via the course tracker
