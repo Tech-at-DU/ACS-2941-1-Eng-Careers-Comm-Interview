@@ -148,6 +148,16 @@ function moveZeroes(nums) {
 }
 ```
 
+**What's swapping with what:** this is a one-line swap, no temp variable. Read the right side first — `[nums[insertPos], nums[i]]` builds a temporary pair holding the *old* values, `insertPos`'s value first, `i`'s value second. The left side then unpacks that pair back into the array in the same order: `nums[i]` gets the first item (old `nums[insertPos]`), `nums[insertPos]` gets the second item (old `nums[i]`). Net effect: the values at index `i` and index `insertPos` trade places. Without this shorthand, it'd be three lines:
+
+```js
+const temp = nums[i];
+nums[i] = nums[insertPos];
+nums[insertPos] = temp;
+```
+
+Both versions are O(1) per swap — different syntax, same Big-O, a preview of [Lesson 12](12-Complexity-Analysis.md).
+
 ```python
 def move_zeroes(nums):
     insert_pos = 0
