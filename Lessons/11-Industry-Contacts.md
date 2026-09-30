@@ -156,6 +156,22 @@ nums[i] = nums[insertPos];
 nums[insertPos] = temp;
 ```
 
+Another way to think of this is: 
+
+```js
+const arr = [1,2,3,4,5];
+
+// This swaps arr[i] with arr[j]
+[arr[i], arr[j]] = [arr[j], arr[i]];
+
+// This does the same
+const first = a[j];
+const second = a[i];
+
+a[i] = first;
+a[j] = second;
+```
+
 Both versions are O(1) per swap — different syntax, same Big-O, a preview of [Lesson 12](12-Complexity-Analysis.md).
 
 ```python
@@ -172,6 +188,16 @@ Trace it by hand with the table above before you run it — the swap is easy to 
 ## Break (10 min)
 
 ## Activity: Request an Informational Interview
+
+**Why this matters:** an informational interview is a short, low-stakes conversation with someone already working in the field — you're not asking them for a job, you're asking about their experience and path. Three concrete payoffs: most software jobs are filled through referrals before they're ever posted publicly, so building real contacts now means you're not a cold applicant later; you get first-hand insight into what a role or company is actually like, which no job posting tells you; and it's another rep at the same communication skills (clear ask, active listening, your Personal Odyssey) in a much lower-pressure setting than an actual interview.
+
+**Staying safe reaching out to strangers online:**
+
+- Keep the first conversation on the platform itself (LinkedIn messages). Don't put your phone number, personal email, or home address in an opening message.
+- A real industry contact will never ask you for money, gift cards, payment for "training" or "equipment," or your bank/financial details. Any of that is a scam, not networking — stop replying, screenshot it, and flag it to your instructor.
+- Check who you're actually talking to before going further: a real profile has history, real connections, a verifiable employer. A brand-new account with no connections, a stock photo, or an unsolicited "job offer" with no real interview is a red flag.
+- If a conversation moves toward a call or meeting in person, keep it professional, and if it's in person, meet somewhere public and tell your instructor or a friend where you'll be.
+- Trust your gut. Pressure to move fast, requests for sensitive personal info, or anything that feels off — stop and check with your instructor before continuing.
 
 1. Find a Contact: Open up LinkedIn (or X, GitHub, a company's engineering blog) and search for keywords for people you’d like to connect with.
 1. Write a message: Keep it short, sweet, to the point, and specific to something real about them (a project, a post, a talk) — generic or obviously AI-generated cold messages get ignored.
