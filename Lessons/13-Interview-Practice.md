@@ -129,9 +129,9 @@ Same "undo" framing as the cafeteria-tray analogy: `#` is just pressing undo on 
 
 This class is cumulative — by now you've seen hash maps (Lesson 9), two pointers/sliding window (Lesson 12), and today, stacks. The list below mixes all three on purpose.
 
-## Activity: Interview Practice
+## Activity: Interview Practice (45 min)
 
-For each problem, **say the pattern out loud before you start coding** (hash map, two pointer/sliding window, stack, or other) — then solve it under time pressure.
+Pick 3-4 of the problems below — you won't get through all of them, and that's fine. For each problem, **say the pattern out loud before you start coding** (hash map, two pointer/sliding window, stack, or other) — then solve it under time pressure.
 
 1. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/): Determine if two strings are "isomorphic". *(hash map)*
 1. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/): Remove all elements from a linked list that contain a given value.
@@ -143,7 +143,7 @@ For each problem, **say the pattern out loud before you start coding** (hash map
 
 ## Pattern Recap: The Three Patterns (10 min)
 
-This is the last new pattern of the course — worth pulling all three into one place before [Lesson 14](14-Original-Problems.md)'s final review.
+This is the last new pattern of the course, and the last class — worth pulling all three into one place before you head into the final.
 
 | If the problem says... | Reach for... | Why |
 | ----------------------- | -------------- | --- |
@@ -153,9 +153,30 @@ This is the last new pattern of the course — worth pulling all three into one 
 
 None of these are the only tool that ever works — they're the fastest ones to reach for when the signal is there. In an interview, naming the pattern out loud *before* you code, the way you've been practicing all week, is doing half the interviewer's job for them.
 
+## Wrap-Up for the Term
+
+### What's Next: Continuing the Work (10 min)
+
+The course ends today; none of this ends today. Concretely, before you leave:
+
+- **Keep solving problems.** The [Tiered Problem Bank](../Assignments/Tiered-Problem-Bank.md) doesn't expire — keep working up through the tiers on your own cadence.
+- **Follow up with your contact from [Lesson 11](11-Industry-Contacts.md).** If they replied, send one more message now — a thank-you, or an update on where your search stands. Don't let a real connection go cold because the course ended.
+- **Revisit your resume and LinkedIn** before every new application cycle, not just once. The [checklist](../Assignments/Resume-Portfolio-LinkedIn-Checklist.md) still works after today.
+- **Keep an eye out for the three patterns** — hash maps, two pointers/sliding window, stacks. They were the throughline of this course because they're the throughline of real interviews too; recognizing them is a habit, and habits need upkeep.
+
+### End-of-Term Survey (10 min)
+
+Please complete the course feedback survey via the course tracker.
+
+### Closing Circle (10 min)
+
+Go around the room. Each person: 20-30 seconds, no more — name one specific thing from this course that clicked for you, or one thing you're proud of having done. "I don't freeze up anymore" counts. "I finally get hash maps" counts. Specific beats polished.
+
 ## Homework
 
-Write 2 Original Problems and bring them to class on Monday! At least one should be built around one of the three patterns from this course (hash map, two pointers/sliding window, or stack) — you'll need to be able to say which, and why, when you present it.
+1. Study for the final using the [Final Assessment Study Guide](../Assessments/final-assessment.md). Take each learning outcome and practice both *explaining* it and *demonstrating* it live.
+1. Submit your final [Video Interview](../Assignments/Video-Interview.md).
+1. Keep working through the [Tiered Problem Bank](../Assignments/Tiered-Problem-Bank.md) — [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) is a good next stack problem after today.
 
 ## Wrap-Up
 

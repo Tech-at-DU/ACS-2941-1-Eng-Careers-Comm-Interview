@@ -28,7 +28,7 @@ By the end of the course, you will be able to ...
 
 **Course Dates:** August 24 – October 9, 2026 (Fall 2026)
 
-**Class Times:** Monday & Wednesday, 1:00 PM – 3:45 PM (14 class sessions)
+**Class Times:** Monday & Wednesday, 1:00 PM – 3:45 PM (13 class sessions)
 
 | Session | Lesson | Focus |
 | ------- | ------ | ----- |
@@ -45,7 +45,7 @@ By the end of the course, you will be able to ...
 | 11 Sep 30 | [Industry Contacts](Lessons/11-Industry-Contacts.md) | Networking and informational interviews |
 | 12 Oct 5 | [Complexity Analysis](Lessons/12-Complexity-Analysis.md) | Big O runtime and space complexity |
 | 13 Oct 7 | [Interview Practice](Lessons/13-Interview-Practice.md) | Timed practice problems |
-| 14 | [Final Exam Review & Original Problems](Lessons/14-Original-Problems.md) | Final review, mock interviews with original problems |
+| ~~14~~ | ~~[Final Exam Review & Original Problems](Lessons/14-Original-Problems.md)~~ | Cancelled (holiday) — Lesson 13 is the last class |
 
 ## Class Assignments
 
@@ -58,7 +58,7 @@ By the end of the course, you will be able to ...
   - [Exit Ticket](https://forms.gle/hLLsHySp2BT7qXAZ7) — filled out by every student, individually, at the end of each session (the day's specific prompt is printed in that lesson)
 - **Personal documents** — things that aren't code and aren't short structured entries (a behavioral prep worksheet, a resume/portfolio/LinkedIn checklist, a video interview recording): your choice of a private Google Doc/Drive link or your own repo, submitted via the [Assignment Link Submission form](https://forms.gle/o2rLExrzRuJWi7Px7).
 
-Same four forms are reused across all 14 sessions — just note the lesson number when you submit.
+Same four forms are reused across all 13 sessions — just note the lesson number when you submit.
 
 ## Evaluation
 

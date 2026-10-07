@@ -98,7 +98,7 @@ As a full class: which was harder — answering a question you'd already prepped
 
 > Which behavioral question category (teamwork, conflict, failure, initiative) do you currently have the weakest story for? Name one real experience you could turn into a STAR story before the next round.
 
-**Instructor:** this tells you who needs to build out their story bank before Lesson 14's final mock interviews — worth a check-in if the same gaps show up across several students.
+**Instructor:** this tells you who needs to build out their story bank before the final assessment — worth a check-in if the same gaps show up across several students.
 
 ## Homework
 
